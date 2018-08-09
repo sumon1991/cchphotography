@@ -1,0 +1,595 @@
+[11-Mar-2018 15:45:18 UTC] PHP Warning:  sprintf(): Too few arguments in /home/ubuntu/workspace/wp-admin/includes/class-bulk-upgrader-skin.php on line 154
+[11-Mar-2018 15:45:18 UTC] PHP Stack trace:
+[11-Mar-2018 15:45:18 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/themes.php:0
+[11-Mar-2018 15:45:18 UTC] PHP   2. require_once() /home/ubuntu/workspace/wp-admin/themes.php:10
+[11-Mar-2018 15:45:18 UTC] PHP   3. do_action() /home/ubuntu/workspace/wp-admin/admin.php:222
+[11-Mar-2018 15:45:18 UTC] PHP   4. WP_Hook->do_action() /home/ubuntu/workspace/wp-includes/plugin.php:453
+[11-Mar-2018 15:45:18 UTC] PHP   5. WP_Hook->apply_filters() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:323
+[11-Mar-2018 15:45:18 UTC] PHP   6. call_user_func_array:{/home/ubuntu/workspace/wp-includes/class-wp-hook.php:298}() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:298
+[11-Mar-2018 15:45:18 UTC] PHP   7. TGM_Plugin_Activation->install_plugins_page() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:298
+[11-Mar-2018 15:45:18 UTC] PHP   8. TGMPA_List_Table->process_bulk_actions() /home/ubuntu/workspace/wp-content/themes/brando/lib/tgm/class-tgm-plugin-activation.php:735
+[11-Mar-2018 15:45:18 UTC] PHP   9. TGMPA_Bulk_Installer->bulk_install() /home/ubuntu/workspace/wp-content/themes/brando/lib/tgm/class-tgm-plugin-activation.php:2969
+[11-Mar-2018 15:45:18 UTC] PHP  10. TGMPA_Bulk_Installer->run() /home/ubuntu/workspace/wp-content/themes/brando/lib/tgm/class-tgm-plugin-activation.php:3366
+[11-Mar-2018 15:45:18 UTC] PHP  11. WP_Upgrader->run() /home/ubuntu/workspace/wp-content/themes/brando/lib/tgm/class-tgm-plugin-activation.php:3250
+[11-Mar-2018 15:45:18 UTC] PHP  12. TGMPA_Bulk_Installer_Skin->after() /home/ubuntu/workspace/wp-admin/includes/class-wp-upgrader.php:757
+[11-Mar-2018 15:45:18 UTC] PHP  13. Bulk_Upgrader_Skin->after() /home/ubuntu/workspace/wp-content/themes/brando/lib/tgm/class-tgm-plugin-activation.php:3630
+[11-Mar-2018 15:45:18 UTC] PHP  14. sprintf() /home/ubuntu/workspace/wp-admin/includes/class-bulk-upgrader-skin.php:154
+[11-Mar-2018 15:45:20 UTC] PHP Warning:  sprintf(): Too few arguments in /home/ubuntu/workspace/wp-admin/includes/class-bulk-upgrader-skin.php on line 154
+[11-Mar-2018 15:45:20 UTC] PHP Stack trace:
+[11-Mar-2018 15:45:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/themes.php:0
+[11-Mar-2018 15:45:20 UTC] PHP   2. require_once() /home/ubuntu/workspace/wp-admin/themes.php:10
+[11-Mar-2018 15:45:20 UTC] PHP   3. do_action() /home/ubuntu/workspace/wp-admin/admin.php:222
+[11-Mar-2018 15:45:20 UTC] PHP   4. WP_Hook->do_action() /home/ubuntu/workspace/wp-includes/plugin.php:453
+[11-Mar-2018 15:45:20 UTC] PHP   5. WP_Hook->apply_filters() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:323
+[11-Mar-2018 15:45:20 UTC] PHP   6. call_user_func_array:{/home/ubuntu/workspace/wp-includes/class-wp-hook.php:298}() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:298
+[11-Mar-2018 15:45:20 UTC] PHP   7. TGM_Plugin_Activation->install_plugins_page() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:298
+[11-Mar-2018 15:45:20 UTC] PHP   8. TGMPA_List_Table->process_bulk_actions() /home/ubuntu/workspace/wp-content/themes/brando/lib/tgm/class-tgm-plugin-activation.php:735
+[11-Mar-2018 15:45:20 UTC] PHP   9. TGMPA_Bulk_Installer->bulk_install() /home/ubuntu/workspace/wp-content/themes/brando/lib/tgm/class-tgm-plugin-activation.php:2969
+[11-Mar-2018 15:45:20 UTC] PHP  10. TGMPA_Bulk_Installer->run() /home/ubuntu/workspace/wp-content/themes/brando/lib/tgm/class-tgm-plugin-activation.php:3366
+[11-Mar-2018 15:45:20 UTC] PHP  11. WP_Upgrader->run() /home/ubuntu/workspace/wp-content/themes/brando/lib/tgm/class-tgm-plugin-activation.php:3250
+[11-Mar-2018 15:45:20 UTC] PHP  12. TGMPA_Bulk_Installer_Skin->after() /home/ubuntu/workspace/wp-admin/includes/class-wp-upgrader.php:757
+[11-Mar-2018 15:45:20 UTC] PHP  13. Bulk_Upgrader_Skin->after() /home/ubuntu/workspace/wp-content/themes/brando/lib/tgm/class-tgm-plugin-activation.php:3630
+[11-Mar-2018 15:45:20 UTC] PHP  14. sprintf() /home/ubuntu/workspace/wp-admin/includes/class-bulk-upgrader-skin.php:154
+[11-Mar-2018 15:45:21 UTC] PHP Warning:  sprintf(): Too few arguments in /home/ubuntu/workspace/wp-admin/includes/class-bulk-upgrader-skin.php on line 154
+[11-Mar-2018 15:45:21 UTC] PHP Stack trace:
+[11-Mar-2018 15:45:21 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/themes.php:0
+[11-Mar-2018 15:45:21 UTC] PHP   2. require_once() /home/ubuntu/workspace/wp-admin/themes.php:10
+[11-Mar-2018 15:45:21 UTC] PHP   3. do_action() /home/ubuntu/workspace/wp-admin/admin.php:222
+[11-Mar-2018 15:45:21 UTC] PHP   4. WP_Hook->do_action() /home/ubuntu/workspace/wp-includes/plugin.php:453
+[11-Mar-2018 15:45:21 UTC] PHP   5. WP_Hook->apply_filters() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:323
+[11-Mar-2018 15:45:21 UTC] PHP   6. call_user_func_array:{/home/ubuntu/workspace/wp-includes/class-wp-hook.php:298}() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:298
+[11-Mar-2018 15:45:21 UTC] PHP   7. TGM_Plugin_Activation->install_plugins_page() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:298
+[11-Mar-2018 15:45:21 UTC] PHP   8. TGMPA_List_Table->process_bulk_actions() /home/ubuntu/workspace/wp-content/themes/brando/lib/tgm/class-tgm-plugin-activation.php:735
+[11-Mar-2018 15:45:21 UTC] PHP   9. TGMPA_Bulk_Installer->bulk_install() /home/ubuntu/workspace/wp-content/themes/brando/lib/tgm/class-tgm-plugin-activation.php:2969
+[11-Mar-2018 15:45:21 UTC] PHP  10. TGMPA_Bulk_Installer->run() /home/ubuntu/workspace/wp-content/themes/brando/lib/tgm/class-tgm-plugin-activation.php:3366
+[11-Mar-2018 15:45:21 UTC] PHP  11. WP_Upgrader->run() /home/ubuntu/workspace/wp-content/themes/brando/lib/tgm/class-tgm-plugin-activation.php:3250
+[11-Mar-2018 15:45:21 UTC] PHP  12. TGMPA_Bulk_Installer_Skin->after() /home/ubuntu/workspace/wp-admin/includes/class-wp-upgrader.php:757
+[11-Mar-2018 15:45:21 UTC] PHP  13. Bulk_Upgrader_Skin->after() /home/ubuntu/workspace/wp-content/themes/brando/lib/tgm/class-tgm-plugin-activation.php:3630
+[11-Mar-2018 15:45:21 UTC] PHP  14. sprintf() /home/ubuntu/workspace/wp-admin/includes/class-bulk-upgrader-skin.php:154
+[11-Mar-2018 15:45:22 UTC] PHP Warning:  sprintf(): Too few arguments in /home/ubuntu/workspace/wp-admin/includes/class-bulk-upgrader-skin.php on line 154
+[11-Mar-2018 15:45:22 UTC] PHP Stack trace:
+[11-Mar-2018 15:45:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/themes.php:0
+[11-Mar-2018 15:45:22 UTC] PHP   2. require_once() /home/ubuntu/workspace/wp-admin/themes.php:10
+[11-Mar-2018 15:45:22 UTC] PHP   3. do_action() /home/ubuntu/workspace/wp-admin/admin.php:222
+[11-Mar-2018 15:45:22 UTC] PHP   4. WP_Hook->do_action() /home/ubuntu/workspace/wp-includes/plugin.php:453
+[11-Mar-2018 15:45:22 UTC] PHP   5. WP_Hook->apply_filters() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:323
+[11-Mar-2018 15:45:22 UTC] PHP   6. call_user_func_array:{/home/ubuntu/workspace/wp-includes/class-wp-hook.php:298}() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:298
+[11-Mar-2018 15:45:22 UTC] PHP   7. TGM_Plugin_Activation->install_plugins_page() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:298
+[11-Mar-2018 15:45:22 UTC] PHP   8. TGMPA_List_Table->process_bulk_actions() /home/ubuntu/workspace/wp-content/themes/brando/lib/tgm/class-tgm-plugin-activation.php:735
+[11-Mar-2018 15:45:22 UTC] PHP   9. TGMPA_Bulk_Installer->bulk_install() /home/ubuntu/workspace/wp-content/themes/brando/lib/tgm/class-tgm-plugin-activation.php:2969
+[11-Mar-2018 15:45:22 UTC] PHP  10. TGMPA_Bulk_Installer->run() /home/ubuntu/workspace/wp-content/themes/brando/lib/tgm/class-tgm-plugin-activation.php:3366
+[11-Mar-2018 15:45:22 UTC] PHP  11. WP_Upgrader->run() /home/ubuntu/workspace/wp-content/themes/brando/lib/tgm/class-tgm-plugin-activation.php:3250
+[11-Mar-2018 15:45:22 UTC] PHP  12. TGMPA_Bulk_Installer_Skin->after() /home/ubuntu/workspace/wp-admin/includes/class-wp-upgrader.php:757
+[11-Mar-2018 15:45:22 UTC] PHP  13. Bulk_Upgrader_Skin->after() /home/ubuntu/workspace/wp-content/themes/brando/lib/tgm/class-tgm-plugin-activation.php:3630
+[11-Mar-2018 15:45:22 UTC] PHP  14. sprintf() /home/ubuntu/workspace/wp-admin/includes/class-bulk-upgrader-skin.php:154
+[06-Apr-2018 02:40:59 UTC] PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/ubuntu/workspace/wp-includes/media.php on line 2833
+[06-Apr-2018 02:40:59 UTC] PHP Stack trace:
+[06-Apr-2018 02:40:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/admin-ajax.php:0
+[06-Apr-2018 02:40:59 UTC] PHP   2. do_action() /home/ubuntu/workspace/wp-admin/admin-ajax.php:91
+[06-Apr-2018 02:40:59 UTC] PHP   3. WP_Hook->do_action() /home/ubuntu/workspace/wp-includes/plugin.php:453
+[06-Apr-2018 02:40:59 UTC] PHP   4. WP_Hook->apply_filters() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:323
+[06-Apr-2018 02:40:59 UTC] PHP   5. call_user_func_array:{/home/ubuntu/workspace/wp-includes/class-wp-hook.php:298}() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:298
+[06-Apr-2018 02:40:59 UTC] PHP   6. Custom_Image_Header->ajax_header_crop() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:298
+[06-Apr-2018 02:40:59 UTC] PHP   7. wp_crop_image() /home/ubuntu/workspace/wp-admin/custom-header.php:1237
+[06-Apr-2018 02:40:59 UTC] PHP   8. WP_Image_Editor_GD->crop() /home/ubuntu/workspace/wp-admin/includes/image.php:43
+[06-Apr-2018 02:40:59 UTC] PHP   9. wp_imagecreatetruecolor() /home/ubuntu/workspace/wp-includes/class-wp-image-editor-gd.php:286
+[06-Apr-2018 02:40:59 UTC] PHP  10. imagecreatetruecolor() /home/ubuntu/workspace/wp-includes/media.php:2833
+[06-Apr-2018 02:40:59 UTC] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/wp-includes/class-wp-image-editor-gd.php on line 296
+[06-Apr-2018 02:40:59 UTC] PHP Stack trace:
+[06-Apr-2018 02:40:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/admin-ajax.php:0
+[06-Apr-2018 02:40:59 UTC] PHP   2. do_action() /home/ubuntu/workspace/wp-admin/admin-ajax.php:91
+[06-Apr-2018 02:40:59 UTC] PHP   3. WP_Hook->do_action() /home/ubuntu/workspace/wp-includes/plugin.php:453
+[06-Apr-2018 02:40:59 UTC] PHP   4. WP_Hook->apply_filters() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:323
+[06-Apr-2018 02:40:59 UTC] PHP   5. call_user_func_array:{/home/ubuntu/workspace/wp-includes/class-wp-hook.php:298}() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:298
+[06-Apr-2018 02:40:59 UTC] PHP   6. Custom_Image_Header->ajax_header_crop() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:298
+[06-Apr-2018 02:40:59 UTC] PHP   7. wp_crop_image() /home/ubuntu/workspace/wp-admin/custom-header.php:1237
+[06-Apr-2018 02:40:59 UTC] PHP   8. WP_Image_Editor_GD->crop() /home/ubuntu/workspace/wp-admin/includes/image.php:43
+[06-Apr-2018 02:40:59 UTC] PHP   9. imagecopyresampled() /home/ubuntu/workspace/wp-includes/class-wp-image-editor-gd.php:296
+[02-Aug-2018 21:18:36 UTC] PHP Warning:  explode() expects parameter 2 to be string, array given in /home/ubuntu/workspace/wp-content/plugins/brando-addons/brando-shortcodes/extend-composer/brando-multiple-portfolio-categories.php on line 11
+[02-Aug-2018 21:18:36 UTC] PHP Stack trace:
+[02-Aug-2018 21:18:36 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/admin-ajax.php:0
+[02-Aug-2018 21:18:36 UTC] PHP   2. do_action() /home/ubuntu/workspace/wp-admin/admin-ajax.php:91
+[02-Aug-2018 21:18:36 UTC] PHP   3. WP_Hook->do_action() /home/ubuntu/workspace/wp-includes/plugin.php:453
+[02-Aug-2018 21:18:36 UTC] PHP   4. WP_Hook->apply_filters() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:323
+[02-Aug-2018 21:18:36 UTC] PHP   5. call_user_func_array:{/home/ubuntu/workspace/wp-includes/class-wp-hook.php:298}() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:298
+[02-Aug-2018 21:18:36 UTC] PHP   6. Vc_Shortcode_Edit_Form->renderFields() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:298
+[02-Aug-2018 21:18:36 UTC] PHP   7. Vc_Edit_Form_Fields->render() /home/ubuntu/workspace/wp-content/plugins/js_composer/include/classes/editors/popups/class-vc-shortcode-edit-form.php:73
+[02-Aug-2018 21:18:36 UTC] PHP   8. Vc_Edit_Form_Fields->renderField() /home/ubuntu/workspace/wp-content/plugins/js_composer/include/classes/editors/class-vc-edit-form-fields.php:227
+[02-Aug-2018 21:18:36 UTC] PHP   9. vc_do_shortcode_param_settings_field() /home/ubuntu/workspace/wp-content/plugins/js_composer/include/classes/editors/class-vc-edit-form-fields.php:271
+[02-Aug-2018 21:18:36 UTC] PHP  10. WpbakeryShortcodeParams::renderSettingsField() /home/ubuntu/workspace/wp-content/plugins/js_composer/include/params/params.php:243
+[02-Aug-2018 21:18:36 UTC] PHP  11. call_user_func:{/home/ubuntu/workspace/wp-content/plugins/js_composer/include/params/params.php:145}() /home/ubuntu/workspace/wp-content/plugins/js_composer/include/params/params.php:145
+[02-Aug-2018 21:18:36 UTC] PHP  12. portfolio_category() /home/ubuntu/workspace/wp-content/plugins/js_composer/include/params/params.php:145
+[02-Aug-2018 21:18:36 UTC] PHP  13. explode() /home/ubuntu/workspace/wp-content/plugins/brando-addons/brando-shortcodes/extend-composer/brando-multiple-portfolio-categories.php:11
+[02-Aug-2018 21:18:36 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/wp-content/plugins/brando-addons/brando-shortcodes/extend-composer/brando-multiple-portfolio-categories.php on line 13
+[02-Aug-2018 21:18:36 UTC] PHP Stack trace:
+[02-Aug-2018 21:18:36 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/admin-ajax.php:0
+[02-Aug-2018 21:18:36 UTC] PHP   2. do_action() /home/ubuntu/workspace/wp-admin/admin-ajax.php:91
+[02-Aug-2018 21:18:36 UTC] PHP   3. WP_Hook->do_action() /home/ubuntu/workspace/wp-includes/plugin.php:453
+[02-Aug-2018 21:18:36 UTC] PHP   4. WP_Hook->apply_filters() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:323
+[02-Aug-2018 21:18:36 UTC] PHP   5. call_user_func_array:{/home/ubuntu/workspace/wp-includes/class-wp-hook.php:298}() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:298
+[02-Aug-2018 21:18:36 UTC] PHP   6. Vc_Shortcode_Edit_Form->renderFields() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:298
+[02-Aug-2018 21:18:36 UTC] PHP   7. Vc_Edit_Form_Fields->render() /home/ubuntu/workspace/wp-content/plugins/js_composer/include/classes/editors/popups/class-vc-shortcode-edit-form.php:73
+[02-Aug-2018 21:18:36 UTC] PHP   8. Vc_Edit_Form_Fields->renderField() /home/ubuntu/workspace/wp-content/plugins/js_composer/include/classes/editors/class-vc-edit-form-fields.php:227
+[02-Aug-2018 21:18:36 UTC] PHP   9. vc_do_shortcode_param_settings_field() /home/ubuntu/workspace/wp-content/plugins/js_composer/include/classes/editors/class-vc-edit-form-fields.php:271
+[02-Aug-2018 21:18:36 UTC] PHP  10. WpbakeryShortcodeParams::renderSettingsField() /home/ubuntu/workspace/wp-content/plugins/js_composer/include/params/params.php:243
+[02-Aug-2018 21:18:36 UTC] PHP  11. call_user_func:{/home/ubuntu/workspace/wp-content/plugins/js_composer/include/params/params.php:145}() /home/ubuntu/workspace/wp-content/plugins/js_composer/include/params/params.php:145
+[02-Aug-2018 21:18:36 UTC] PHP  12. portfolio_category() /home/ubuntu/workspace/wp-content/plugins/js_composer/include/params/params.php:145
+[02-Aug-2018 21:18:36 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/ubuntu/workspace/wp-content/plugins/brando-addons/brando-shortcodes/extend-composer/brando-multiple-portfolio-categories.php on line 31
+[02-Aug-2018 21:18:36 UTC] PHP Stack trace:
+[02-Aug-2018 21:18:36 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/admin-ajax.php:0
+[02-Aug-2018 21:18:36 UTC] PHP   2. do_action() /home/ubuntu/workspace/wp-admin/admin-ajax.php:91
+[02-Aug-2018 21:18:36 UTC] PHP   3. WP_Hook->do_action() /home/ubuntu/workspace/wp-includes/plugin.php:453
+[02-Aug-2018 21:18:36 UTC] PHP   4. WP_Hook->apply_filters() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:323
+[02-Aug-2018 21:18:36 UTC] PHP   5. call_user_func_array:{/home/ubuntu/workspace/wp-includes/class-wp-hook.php:298}() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:298
+[02-Aug-2018 21:18:36 UTC] PHP   6. Vc_Shortcode_Edit_Form->renderFields() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:298
+[02-Aug-2018 21:18:36 UTC] PHP   7. Vc_Edit_Form_Fields->render() /home/ubuntu/workspace/wp-content/plugins/js_composer/include/classes/editors/popups/class-vc-shortcode-edit-form.php:73
+[02-Aug-2018 21:18:36 UTC] PHP   8. Vc_Edit_Form_Fields->renderField() /home/ubuntu/workspace/wp-content/plugins/js_composer/include/classes/editors/class-vc-edit-form-fields.php:227
+[02-Aug-2018 21:18:36 UTC] PHP   9. vc_do_shortcode_param_settings_field() /home/ubuntu/workspace/wp-content/plugins/js_composer/include/classes/editors/class-vc-edit-form-fields.php:271
+[02-Aug-2018 21:18:36 UTC] PHP  10. WpbakeryShortcodeParams::renderSettingsField() /home/ubuntu/workspace/wp-content/plugins/js_composer/include/params/params.php:243
+[02-Aug-2018 21:18:36 UTC] PHP  11. call_user_func:{/home/ubuntu/workspace/wp-content/plugins/js_composer/include/params/params.php:145}() /home/ubuntu/workspace/wp-content/plugins/js_composer/include/params/params.php:145
+[02-Aug-2018 21:18:36 UTC] PHP  12. portfolio_category() /home/ubuntu/workspace/wp-content/plugins/js_composer/include/params/params.php:145
+[02-Aug-2018 21:18:36 UTC] PHP  13. in_array() /home/ubuntu/workspace/wp-content/plugins/brando-addons/brando-shortcodes/extend-composer/brando-multiple-portfolio-categories.php:31
+[02-Aug-2018 21:18:36 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/ubuntu/workspace/wp-content/plugins/brando-addons/brando-shortcodes/extend-composer/brando-multiple-portfolio-categories.php on line 31
+[02-Aug-2018 21:18:36 UTC] PHP Stack trace:
+[02-Aug-2018 21:18:36 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/admin-ajax.php:0
+[02-Aug-2018 21:18:36 UTC] PHP   2. do_action() /home/ubuntu/workspace/wp-admin/admin-ajax.php:91
+[02-Aug-2018 21:18:36 UTC] PHP   3. WP_Hook->do_action() /home/ubuntu/workspace/wp-includes/plugin.php:453
+[02-Aug-2018 21:18:36 UTC] PHP   4. WP_Hook->apply_filters() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:323
+[02-Aug-2018 21:18:36 UTC] PHP   5. call_user_func_array:{/home/ubuntu/workspace/wp-includes/class-wp-hook.php:298}() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:298
+[02-Aug-2018 21:18:36 UTC] PHP   6. Vc_Shortcode_Edit_Form->renderFields() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:298
+[02-Aug-2018 21:18:36 UTC] PHP   7. Vc_Edit_Form_Fields->render() /home/ubuntu/workspace/wp-content/plugins/js_composer/include/classes/editors/popups/class-vc-shortcode-edit-form.php:73
+[02-Aug-2018 21:18:36 UTC] PHP   8. Vc_Edit_Form_Fields->renderField() /home/ubuntu/workspace/wp-content/plugins/js_composer/include/classes/editors/class-vc-edit-form-fields.php:227
+[02-Aug-2018 21:18:36 UTC] PHP   9. vc_do_shortcode_param_settings_field() /home/ubuntu/workspace/wp-content/plugins/js_composer/include/classes/editors/class-vc-edit-form-fields.php:271
+[02-Aug-2018 21:18:36 UTC] PHP  10. WpbakeryShortcodeParams::renderSettingsField() /home/ubuntu/workspace/wp-content/plugins/js_composer/include/params/params.php:243
+[02-Aug-2018 21:18:36 UTC] PHP  11. call_user_func:{/home/ubuntu/workspace/wp-content/plugins/js_composer/include/params/params.php:145}() /home/ubuntu/workspace/wp-content/plugins/js_composer/include/params/params.php:145
+[02-Aug-2018 21:18:36 UTC] PHP  12. portfolio_category() /home/ubuntu/workspace/wp-content/plugins/js_composer/include/params/params.php:145
+[02-Aug-2018 21:18:36 UTC] PHP  13. in_array() /home/ubuntu/workspace/wp-content/plugins/brando-addons/brando-shortcodes/extend-composer/brando-multiple-portfolio-categories.php:31
+[02-Aug-2018 21:18:36 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/ubuntu/workspace/wp-content/plugins/brando-addons/brando-shortcodes/extend-composer/brando-multiple-portfolio-categories.php on line 31
+[02-Aug-2018 21:18:36 UTC] PHP Stack trace:
+[02-Aug-2018 21:18:36 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/admin-ajax.php:0
+[02-Aug-2018 21:18:36 UTC] PHP   2. do_action() /home/ubuntu/workspace/wp-admin/admin-ajax.php:91
+[02-Aug-2018 21:18:36 UTC] PHP   3. WP_Hook->do_action() /home/ubuntu/workspace/wp-includes/plugin.php:453
+[02-Aug-2018 21:18:36 UTC] PHP   4. WP_Hook->apply_filters() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:323
+[02-Aug-2018 21:18:36 UTC] PHP   5. call_user_func_array:{/home/ubuntu/workspace/wp-includes/class-wp-hook.php:298}() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:298
+[02-Aug-2018 21:18:36 UTC] PHP   6. Vc_Shortcode_Edit_Form->renderFields() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:298
+[02-Aug-2018 21:18:36 UTC] PHP   7. Vc_Edit_Form_Fields->render() /home/ubuntu/workspace/wp-content/plugins/js_composer/include/classes/editors/popups/class-vc-shortcode-edit-form.php:73
+[02-Aug-2018 21:18:36 UTC] PHP   8. Vc_Edit_Form_Fields->renderField() /home/ubuntu/workspace/wp-content/plugins/js_composer/include/classes/editors/class-vc-edit-form-fields.php:227
+[02-Aug-2018 21:18:36 UTC] PHP   9. vc_do_shortcode_param_settings_field() /home/ubuntu/workspace/wp-content/plugins/js_composer/include/classes/editors/class-vc-edit-form-fields.php:271
+[02-Aug-2018 21:18:36 UTC] PHP  10. WpbakeryShortcodeParams::renderSettingsField() /home/ubuntu/workspace/wp-content/plugins/js_composer/include/params/params.php:243
+[02-Aug-2018 21:18:36 UTC] PHP  11. call_user_func:{/home/ubuntu/workspace/wp-content/plugins/js_composer/include/params/params.php:145}() /home/ubuntu/workspace/wp-content/plugins/js_composer/include/params/params.php:145
+[02-Aug-2018 21:18:36 UTC] PHP  12. portfolio_category() /home/ubuntu/workspace/wp-content/plugins/js_composer/include/params/params.php:145
+[02-Aug-2018 21:18:36 UTC] PHP  13. in_array() /home/ubuntu/workspace/wp-content/plugins/brando-addons/brando-shortcodes/extend-composer/brando-multiple-portfolio-categories.php:31
+[02-Aug-2018 21:18:36 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/ubuntu/workspace/wp-content/plugins/brando-addons/brando-shortcodes/extend-composer/brando-multiple-portfolio-categories.php on line 31
+[02-Aug-2018 21:18:36 UTC] PHP Stack trace:
+[02-Aug-2018 21:18:36 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/admin-ajax.php:0
+[02-Aug-2018 21:18:36 UTC] PHP   2. do_action() /home/ubuntu/workspace/wp-admin/admin-ajax.php:91
+[02-Aug-2018 21:18:36 UTC] PHP   3. WP_Hook->do_action() /home/ubuntu/workspace/wp-includes/plugin.php:453
+[02-Aug-2018 21:18:36 UTC] PHP   4. WP_Hook->apply_filters() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:323
+[02-Aug-2018 21:18:36 UTC] PHP   5. call_user_func_array:{/home/ubuntu/workspace/wp-includes/class-wp-hook.php:298}() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:298
+[02-Aug-2018 21:18:36 UTC] PHP   6. Vc_Shortcode_Edit_Form->renderFields() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:298
+[02-Aug-2018 21:18:36 UTC] PHP   7. Vc_Edit_Form_Fields->render() /home/ubuntu/workspace/wp-content/plugins/js_composer/include/classes/editors/popups/class-vc-shortcode-edit-form.php:73
+[02-Aug-2018 21:18:36 UTC] PHP   8. Vc_Edit_Form_Fields->renderField() /home/ubuntu/workspace/wp-content/plugins/js_composer/include/classes/editors/class-vc-edit-form-fields.php:227
+[02-Aug-2018 21:18:36 UTC] PHP   9. vc_do_shortcode_param_settings_field() /home/ubuntu/workspace/wp-content/plugins/js_composer/include/classes/editors/class-vc-edit-form-fields.php:271
+[02-Aug-2018 21:18:36 UTC] PHP  10. WpbakeryShortcodeParams::renderSettingsField() /home/ubuntu/workspace/wp-content/plugins/js_composer/include/params/params.php:243
+[02-Aug-2018 21:18:36 UTC] PHP  11. call_user_func:{/home/ubuntu/workspace/wp-content/plugins/js_composer/include/params/params.php:145}() /home/ubuntu/workspace/wp-content/plugins/js_composer/include/params/params.php:145
+[02-Aug-2018 21:18:36 UTC] PHP  12. portfolio_category() /home/ubuntu/workspace/wp-content/plugins/js_composer/include/params/params.php:145
+[02-Aug-2018 21:18:36 UTC] PHP  13. in_array() /home/ubuntu/workspace/wp-content/plugins/brando-addons/brando-shortcodes/extend-composer/brando-multiple-portfolio-categories.php:31
+[02-Aug-2018 21:18:36 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/ubuntu/workspace/wp-content/plugins/brando-addons/brando-shortcodes/extend-composer/brando-multiple-portfolio-categories.php on line 31
+[02-Aug-2018 21:18:36 UTC] PHP Stack trace:
+[02-Aug-2018 21:18:36 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/admin-ajax.php:0
+[02-Aug-2018 21:18:36 UTC] PHP   2. do_action() /home/ubuntu/workspace/wp-admin/admin-ajax.php:91
+[02-Aug-2018 21:18:36 UTC] PHP   3. WP_Hook->do_action() /home/ubuntu/workspace/wp-includes/plugin.php:453
+[02-Aug-2018 21:18:36 UTC] PHP   4. WP_Hook->apply_filters() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:323
+[02-Aug-2018 21:18:36 UTC] PHP   5. call_user_func_array:{/home/ubuntu/workspace/wp-includes/class-wp-hook.php:298}() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:298
+[02-Aug-2018 21:18:36 UTC] PHP   6. Vc_Shortcode_Edit_Form->renderFields() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:298
+[02-Aug-2018 21:18:36 UTC] PHP   7. Vc_Edit_Form_Fields->render() /home/ubuntu/workspace/wp-content/plugins/js_composer/include/classes/editors/popups/class-vc-shortcode-edit-form.php:73
+[02-Aug-2018 21:18:36 UTC] PHP   8. Vc_Edit_Form_Fields->renderField() /home/ubuntu/workspace/wp-content/plugins/js_composer/include/classes/editors/class-vc-edit-form-fields.php:227
+[02-Aug-2018 21:18:36 UTC] PHP   9. vc_do_shortcode_param_settings_field() /home/ubuntu/workspace/wp-content/plugins/js_composer/include/classes/editors/class-vc-edit-form-fields.php:271
+[02-Aug-2018 21:18:36 UTC] PHP  10. WpbakeryShortcodeParams::renderSettingsField() /home/ubuntu/workspace/wp-content/plugins/js_composer/include/params/params.php:243
+[02-Aug-2018 21:18:36 UTC] PHP  11. call_user_func:{/home/ubuntu/workspace/wp-content/plugins/js_composer/include/params/params.php:145}() /home/ubuntu/workspace/wp-content/plugins/js_composer/include/params/params.php:145
+[02-Aug-2018 21:18:36 UTC] PHP  12. portfolio_category() /home/ubuntu/workspace/wp-content/plugins/js_composer/include/params/params.php:145
+[02-Aug-2018 21:18:36 UTC] PHP  13. in_array() /home/ubuntu/workspace/wp-content/plugins/brando-addons/brando-shortcodes/extend-composer/brando-multiple-portfolio-categories.php:31
+[02-Aug-2018 21:18:36 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/ubuntu/workspace/wp-content/plugins/brando-addons/brando-shortcodes/extend-composer/brando-multiple-portfolio-categories.php on line 31
+[02-Aug-2018 21:18:36 UTC] PHP Stack trace:
+[02-Aug-2018 21:18:36 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/admin-ajax.php:0
+[02-Aug-2018 21:18:36 UTC] PHP   2. do_action() /home/ubuntu/workspace/wp-admin/admin-ajax.php:91
+[02-Aug-2018 21:18:36 UTC] PHP   3. WP_Hook->do_action() /home/ubuntu/workspace/wp-includes/plugin.php:453
+[02-Aug-2018 21:18:36 UTC] PHP   4. WP_Hook->apply_filters() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:323
+[02-Aug-2018 21:18:36 UTC] PHP   5. call_user_func_array:{/home/ubuntu/workspace/wp-includes/class-wp-hook.php:298}() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:298
+[02-Aug-2018 21:18:36 UTC] PHP   6. Vc_Shortcode_Edit_Form->renderFields() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:298
+[02-Aug-2018 21:18:36 UTC] PHP   7. Vc_Edit_Form_Fields->render() /home/ubuntu/workspace/wp-content/plugins/js_composer/include/classes/editors/popups/class-vc-shortcode-edit-form.php:73
+[02-Aug-2018 21:18:36 UTC] PHP   8. Vc_Edit_Form_Fields->renderField() /home/ubuntu/workspace/wp-content/plugins/js_composer/include/classes/editors/class-vc-edit-form-fields.php:227
+[02-Aug-2018 21:18:36 UTC] PHP   9. vc_do_shortcode_param_settings_field() /home/ubuntu/workspace/wp-content/plugins/js_composer/include/classes/editors/class-vc-edit-form-fields.php:271
+[02-Aug-2018 21:18:36 UTC] PHP  10. WpbakeryShortcodeParams::renderSettingsField() /home/ubuntu/workspace/wp-content/plugins/js_composer/include/params/params.php:243
+[02-Aug-2018 21:18:36 UTC] PHP  11. call_user_func:{/home/ubuntu/workspace/wp-content/plugins/js_composer/include/params/params.php:145}() /home/ubuntu/workspace/wp-content/plugins/js_composer/include/params/params.php:145
+[02-Aug-2018 21:18:36 UTC] PHP  12. portfolio_category() /home/ubuntu/workspace/wp-content/plugins/js_composer/include/params/params.php:145
+[02-Aug-2018 21:18:36 UTC] PHP  13. in_array() /home/ubuntu/workspace/wp-content/plugins/brando-addons/brando-shortcodes/extend-composer/brando-multiple-portfolio-categories.php:31
+[02-Aug-2018 21:18:36 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/ubuntu/workspace/wp-content/plugins/brando-addons/brando-shortcodes/extend-composer/brando-multiple-portfolio-categories.php on line 31
+[02-Aug-2018 21:18:36 UTC] PHP Stack trace:
+[02-Aug-2018 21:18:36 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/admin-ajax.php:0
+[02-Aug-2018 21:18:36 UTC] PHP   2. do_action() /home/ubuntu/workspace/wp-admin/admin-ajax.php:91
+[02-Aug-2018 21:18:36 UTC] PHP   3. WP_Hook->do_action() /home/ubuntu/workspace/wp-includes/plugin.php:453
+[02-Aug-2018 21:18:36 UTC] PHP   4. WP_Hook->apply_filters() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:323
+[02-Aug-2018 21:18:36 UTC] PHP   5. call_user_func_array:{/home/ubuntu/workspace/wp-includes/class-wp-hook.php:298}() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:298
+[02-Aug-2018 21:18:36 UTC] PHP   6. Vc_Shortcode_Edit_Form->renderFields() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:298
+[02-Aug-2018 21:18:36 UTC] PHP   7. Vc_Edit_Form_Fields->render() /home/ubuntu/workspace/wp-content/plugins/js_composer/include/classes/editors/popups/class-vc-shortcode-edit-form.php:73
+[02-Aug-2018 21:18:36 UTC] PHP   8. Vc_Edit_Form_Fields->renderField() /home/ubuntu/workspace/wp-content/plugins/js_composer/include/classes/editors/class-vc-edit-form-fields.php:227
+[02-Aug-2018 21:18:36 UTC] PHP   9. vc_do_shortcode_param_settings_field() /home/ubuntu/workspace/wp-content/plugins/js_composer/include/classes/editors/class-vc-edit-form-fields.php:271
+[02-Aug-2018 21:18:36 UTC] PHP  10. WpbakeryShortcodeParams::renderSettingsField() /home/ubuntu/workspace/wp-content/plugins/js_composer/include/params/params.php:243
+[02-Aug-2018 21:18:36 UTC] PHP  11. call_user_func:{/home/ubuntu/workspace/wp-content/plugins/js_composer/include/params/params.php:145}() /home/ubuntu/workspace/wp-content/plugins/js_composer/include/params/params.php:145
+[02-Aug-2018 21:18:36 UTC] PHP  12. portfolio_category() /home/ubuntu/workspace/wp-content/plugins/js_composer/include/params/params.php:145
+[02-Aug-2018 21:18:36 UTC] PHP  13. in_array() /home/ubuntu/workspace/wp-content/plugins/brando-addons/brando-shortcodes/extend-composer/brando-multiple-portfolio-categories.php:31
+[02-Aug-2018 21:18:36 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/ubuntu/workspace/wp-content/plugins/brando-addons/brando-shortcodes/extend-composer/brando-multiple-portfolio-categories.php on line 31
+[02-Aug-2018 21:18:36 UTC] PHP Stack trace:
+[02-Aug-2018 21:18:36 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/admin-ajax.php:0
+[02-Aug-2018 21:18:36 UTC] PHP   2. do_action() /home/ubuntu/workspace/wp-admin/admin-ajax.php:91
+[02-Aug-2018 21:18:36 UTC] PHP   3. WP_Hook->do_action() /home/ubuntu/workspace/wp-includes/plugin.php:453
+[02-Aug-2018 21:18:36 UTC] PHP   4. WP_Hook->apply_filters() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:323
+[02-Aug-2018 21:18:36 UTC] PHP   5. call_user_func_array:{/home/ubuntu/workspace/wp-includes/class-wp-hook.php:298}() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:298
+[02-Aug-2018 21:18:36 UTC] PHP   6. Vc_Shortcode_Edit_Form->renderFields() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:298
+[02-Aug-2018 21:18:36 UTC] PHP   7. Vc_Edit_Form_Fields->render() /home/ubuntu/workspace/wp-content/plugins/js_composer/include/classes/editors/popups/class-vc-shortcode-edit-form.php:73
+[02-Aug-2018 21:18:36 UTC] PHP   8. Vc_Edit_Form_Fields->renderField() /home/ubuntu/workspace/wp-content/plugins/js_composer/include/classes/editors/class-vc-edit-form-fields.php:227
+[02-Aug-2018 21:18:36 UTC] PHP   9. vc_do_shortcode_param_settings_field() /home/ubuntu/workspace/wp-content/plugins/js_composer/include/classes/editors/class-vc-edit-form-fields.php:271
+[02-Aug-2018 21:18:36 UTC] PHP  10. WpbakeryShortcodeParams::renderSettingsField() /home/ubuntu/workspace/wp-content/plugins/js_composer/include/params/params.php:243
+[02-Aug-2018 21:18:36 UTC] PHP  11. call_user_func:{/home/ubuntu/workspace/wp-content/plugins/js_composer/include/params/params.php:145}() /home/ubuntu/workspace/wp-content/plugins/js_composer/include/params/params.php:145
+[02-Aug-2018 21:18:36 UTC] PHP  12. portfolio_category() /home/ubuntu/workspace/wp-content/plugins/js_composer/include/params/params.php:145
+[02-Aug-2018 21:18:36 UTC] PHP  13. in_array() /home/ubuntu/workspace/wp-content/plugins/brando-addons/brando-shortcodes/extend-composer/brando-multiple-portfolio-categories.php:31
+[02-Aug-2018 21:18:36 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/ubuntu/workspace/wp-content/plugins/brando-addons/brando-shortcodes/extend-composer/brando-multiple-portfolio-categories.php on line 31
+[02-Aug-2018 21:18:36 UTC] PHP Stack trace:
+[02-Aug-2018 21:18:36 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/admin-ajax.php:0
+[02-Aug-2018 21:18:36 UTC] PHP   2. do_action() /home/ubuntu/workspace/wp-admin/admin-ajax.php:91
+[02-Aug-2018 21:18:36 UTC] PHP   3. WP_Hook->do_action() /home/ubuntu/workspace/wp-includes/plugin.php:453
+[02-Aug-2018 21:18:36 UTC] PHP   4. WP_Hook->apply_filters() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:323
+[02-Aug-2018 21:18:36 UTC] PHP   5. call_user_func_array:{/home/ubuntu/workspace/wp-includes/class-wp-hook.php:298}() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:298
+[02-Aug-2018 21:18:36 UTC] PHP   6. Vc_Shortcode_Edit_Form->renderFields() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:298
+[02-Aug-2018 21:18:36 UTC] PHP   7. Vc_Edit_Form_Fields->render() /home/ubuntu/workspace/wp-content/plugins/js_composer/include/classes/editors/popups/class-vc-shortcode-edit-form.php:73
+[02-Aug-2018 21:18:36 UTC] PHP   8. Vc_Edit_Form_Fields->renderField() /home/ubuntu/workspace/wp-content/plugins/js_composer/include/classes/editors/class-vc-edit-form-fields.php:227
+[02-Aug-2018 21:18:36 UTC] PHP   9. vc_do_shortcode_param_settings_field() /home/ubuntu/workspace/wp-content/plugins/js_composer/include/classes/editors/class-vc-edit-form-fields.php:271
+[02-Aug-2018 21:18:36 UTC] PHP  10. WpbakeryShortcodeParams::renderSettingsField() /home/ubuntu/workspace/wp-content/plugins/js_composer/include/params/params.php:243
+[02-Aug-2018 21:18:36 UTC] PHP  11. call_user_func:{/home/ubuntu/workspace/wp-content/plugins/js_composer/include/params/params.php:145}() /home/ubuntu/workspace/wp-content/plugins/js_composer/include/params/params.php:145
+[02-Aug-2018 21:18:36 UTC] PHP  12. portfolio_category() /home/ubuntu/workspace/wp-content/plugins/js_composer/include/params/params.php:145
+[02-Aug-2018 21:18:36 UTC] PHP  13. in_array() /home/ubuntu/workspace/wp-content/plugins/brando-addons/brando-shortcodes/extend-composer/brando-multiple-portfolio-categories.php:31
+[02-Aug-2018 21:18:36 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/ubuntu/workspace/wp-content/plugins/brando-addons/brando-shortcodes/extend-composer/brando-multiple-portfolio-categories.php on line 31
+[02-Aug-2018 21:18:36 UTC] PHP Stack trace:
+[02-Aug-2018 21:18:36 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/admin-ajax.php:0
+[02-Aug-2018 21:18:36 UTC] PHP   2. do_action() /home/ubuntu/workspace/wp-admin/admin-ajax.php:91
+[02-Aug-2018 21:18:36 UTC] PHP   3. WP_Hook->do_action() /home/ubuntu/workspace/wp-includes/plugin.php:453
+[02-Aug-2018 21:18:36 UTC] PHP   4. WP_Hook->apply_filters() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:323
+[02-Aug-2018 21:18:36 UTC] PHP   5. call_user_func_array:{/home/ubuntu/workspace/wp-includes/class-wp-hook.php:298}() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:298
+[02-Aug-2018 21:18:36 UTC] PHP   6. Vc_Shortcode_Edit_Form->renderFields() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:298
+[02-Aug-2018 21:18:36 UTC] PHP   7. Vc_Edit_Form_Fields->render() /home/ubuntu/workspace/wp-content/plugins/js_composer/include/classes/editors/popups/class-vc-shortcode-edit-form.php:73
+[02-Aug-2018 21:18:36 UTC] PHP   8. Vc_Edit_Form_Fields->renderField() /home/ubuntu/workspace/wp-content/plugins/js_composer/include/classes/editors/class-vc-edit-form-fields.php:227
+[02-Aug-2018 21:18:36 UTC] PHP   9. vc_do_shortcode_param_settings_field() /home/ubuntu/workspace/wp-content/plugins/js_composer/include/classes/editors/class-vc-edit-form-fields.php:271
+[02-Aug-2018 21:18:36 UTC] PHP  10. WpbakeryShortcodeParams::renderSettingsField() /home/ubuntu/workspace/wp-content/plugins/js_composer/include/params/params.php:243
+[02-Aug-2018 21:18:36 UTC] PHP  11. call_user_func:{/home/ubuntu/workspace/wp-content/plugins/js_composer/include/params/params.php:145}() /home/ubuntu/workspace/wp-content/plugins/js_composer/include/params/params.php:145
+[02-Aug-2018 21:18:36 UTC] PHP  12. portfolio_category() /home/ubuntu/workspace/wp-content/plugins/js_composer/include/params/params.php:145
+[02-Aug-2018 21:18:36 UTC] PHP  13. in_array() /home/ubuntu/workspace/wp-content/plugins/brando-addons/brando-shortcodes/extend-composer/brando-multiple-portfolio-categories.php:31
+[02-Aug-2018 21:18:36 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/ubuntu/workspace/wp-content/plugins/brando-addons/brando-shortcodes/extend-composer/brando-multiple-portfolio-categories.php on line 31
+[02-Aug-2018 21:18:36 UTC] PHP Stack trace:
+[02-Aug-2018 21:18:36 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/admin-ajax.php:0
+[02-Aug-2018 21:18:36 UTC] PHP   2. do_action() /home/ubuntu/workspace/wp-admin/admin-ajax.php:91
+[02-Aug-2018 21:18:36 UTC] PHP   3. WP_Hook->do_action() /home/ubuntu/workspace/wp-includes/plugin.php:453
+[02-Aug-2018 21:18:36 UTC] PHP   4. WP_Hook->apply_filters() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:323
+[02-Aug-2018 21:18:36 UTC] PHP   5. call_user_func_array:{/home/ubuntu/workspace/wp-includes/class-wp-hook.php:298}() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:298
+[02-Aug-2018 21:18:36 UTC] PHP   6. Vc_Shortcode_Edit_Form->renderFields() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:298
+[02-Aug-2018 21:18:36 UTC] PHP   7. Vc_Edit_Form_Fields->render() /home/ubuntu/workspace/wp-content/plugins/js_composer/include/classes/editors/popups/class-vc-shortcode-edit-form.php:73
+[02-Aug-2018 21:18:36 UTC] PHP   8. Vc_Edit_Form_Fields->renderField() /home/ubuntu/workspace/wp-content/plugins/js_composer/include/classes/editors/class-vc-edit-form-fields.php:227
+[02-Aug-2018 21:18:36 UTC] PHP   9. vc_do_shortcode_param_settings_field() /home/ubuntu/workspace/wp-content/plugins/js_composer/include/classes/editors/class-vc-edit-form-fields.php:271
+[02-Aug-2018 21:18:36 UTC] PHP  10. WpbakeryShortcodeParams::renderSettingsField() /home/ubuntu/workspace/wp-content/plugins/js_composer/include/params/params.php:243
+[02-Aug-2018 21:18:36 UTC] PHP  11. call_user_func:{/home/ubuntu/workspace/wp-content/plugins/js_composer/include/params/params.php:145}() /home/ubuntu/workspace/wp-content/plugins/js_composer/include/params/params.php:145
+[02-Aug-2018 21:18:36 UTC] PHP  12. portfolio_category() /home/ubuntu/workspace/wp-content/plugins/js_composer/include/params/params.php:145
+[02-Aug-2018 21:18:36 UTC] PHP  13. in_array() /home/ubuntu/workspace/wp-content/plugins/brando-addons/brando-shortcodes/extend-composer/brando-multiple-portfolio-categories.php:31
+[02-Aug-2018 21:18:36 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/ubuntu/workspace/wp-content/plugins/brando-addons/brando-shortcodes/extend-composer/brando-multiple-portfolio-categories.php on line 31
+[02-Aug-2018 21:18:36 UTC] PHP Stack trace:
+[02-Aug-2018 21:18:36 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/admin-ajax.php:0
+[02-Aug-2018 21:18:36 UTC] PHP   2. do_action() /home/ubuntu/workspace/wp-admin/admin-ajax.php:91
+[02-Aug-2018 21:18:36 UTC] PHP   3. WP_Hook->do_action() /home/ubuntu/workspace/wp-includes/plugin.php:453
+[02-Aug-2018 21:18:36 UTC] PHP   4. WP_Hook->apply_filters() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:323
+[02-Aug-2018 21:18:36 UTC] PHP   5. call_user_func_array:{/home/ubuntu/workspace/wp-includes/class-wp-hook.php:298}() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:298
+[02-Aug-2018 21:18:36 UTC] PHP   6. Vc_Shortcode_Edit_Form->renderFields() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:298
+[02-Aug-2018 21:18:36 UTC] PHP   7. Vc_Edit_Form_Fields->render() /home/ubuntu/workspace/wp-content/plugins/js_composer/include/classes/editors/popups/class-vc-shortcode-edit-form.php:73
+[02-Aug-2018 21:18:36 UTC] PHP   8. Vc_Edit_Form_Fields->renderField() /home/ubuntu/workspace/wp-content/plugins/js_composer/include/classes/editors/class-vc-edit-form-fields.php:227
+[02-Aug-2018 21:18:36 UTC] PHP   9. vc_do_shortcode_param_settings_field() /home/ubuntu/workspace/wp-content/plugins/js_composer/include/classes/editors/class-vc-edit-form-fields.php:271
+[02-Aug-2018 21:18:36 UTC] PHP  10. WpbakeryShortcodeParams::renderSettingsField() /home/ubuntu/workspace/wp-content/plugins/js_composer/include/params/params.php:243
+[02-Aug-2018 21:18:36 UTC] PHP  11. call_user_func:{/home/ubuntu/workspace/wp-content/plugins/js_composer/include/params/params.php:145}() /home/ubuntu/workspace/wp-content/plugins/js_composer/include/params/params.php:145
+[02-Aug-2018 21:18:36 UTC] PHP  12. portfolio_category() /home/ubuntu/workspace/wp-content/plugins/js_composer/include/params/params.php:145
+[02-Aug-2018 21:18:36 UTC] PHP  13. in_array() /home/ubuntu/workspace/wp-content/plugins/brando-addons/brando-shortcodes/extend-composer/brando-multiple-portfolio-categories.php:31
+[02-Aug-2018 21:18:36 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/ubuntu/workspace/wp-content/plugins/brando-addons/brando-shortcodes/extend-composer/brando-multiple-portfolio-categories.php on line 31
+[02-Aug-2018 21:18:36 UTC] PHP Stack trace:
+[02-Aug-2018 21:18:36 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/admin-ajax.php:0
+[02-Aug-2018 21:18:36 UTC] PHP   2. do_action() /home/ubuntu/workspace/wp-admin/admin-ajax.php:91
+[02-Aug-2018 21:18:36 UTC] PHP   3. WP_Hook->do_action() /home/ubuntu/workspace/wp-includes/plugin.php:453
+[02-Aug-2018 21:18:36 UTC] PHP   4. WP_Hook->apply_filters() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:323
+[02-Aug-2018 21:18:36 UTC] PHP   5. call_user_func_array:{/home/ubuntu/workspace/wp-includes/class-wp-hook.php:298}() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:298
+[02-Aug-2018 21:18:36 UTC] PHP   6. Vc_Shortcode_Edit_Form->renderFields() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:298
+[02-Aug-2018 21:18:36 UTC] PHP   7. Vc_Edit_Form_Fields->render() /home/ubuntu/workspace/wp-content/plugins/js_composer/include/classes/editors/popups/class-vc-shortcode-edit-form.php:73
+[02-Aug-2018 21:18:36 UTC] PHP   8. Vc_Edit_Form_Fields->renderField() /home/ubuntu/workspace/wp-content/plugins/js_composer/include/classes/editors/class-vc-edit-form-fields.php:227
+[02-Aug-2018 21:18:36 UTC] PHP   9. vc_do_shortcode_param_settings_field() /home/ubuntu/workspace/wp-content/plugins/js_composer/include/classes/editors/class-vc-edit-form-fields.php:271
+[02-Aug-2018 21:18:36 UTC] PHP  10. WpbakeryShortcodeParams::renderSettingsField() /home/ubuntu/workspace/wp-content/plugins/js_composer/include/params/params.php:243
+[02-Aug-2018 21:18:36 UTC] PHP  11. call_user_func:{/home/ubuntu/workspace/wp-content/plugins/js_composer/include/params/params.php:145}() /home/ubuntu/workspace/wp-content/plugins/js_composer/include/params/params.php:145
+[02-Aug-2018 21:18:36 UTC] PHP  12. portfolio_category() /home/ubuntu/workspace/wp-content/plugins/js_composer/include/params/params.php:145
+[02-Aug-2018 21:18:36 UTC] PHP  13. in_array() /home/ubuntu/workspace/wp-content/plugins/brando-addons/brando-shortcodes/extend-composer/brando-multiple-portfolio-categories.php:31
+[02-Aug-2018 21:18:36 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/ubuntu/workspace/wp-content/plugins/brando-addons/brando-shortcodes/extend-composer/brando-multiple-portfolio-categories.php on line 31
+[02-Aug-2018 21:18:36 UTC] PHP Stack trace:
+[02-Aug-2018 21:18:36 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/admin-ajax.php:0
+[02-Aug-2018 21:18:36 UTC] PHP   2. do_action() /home/ubuntu/workspace/wp-admin/admin-ajax.php:91
+[02-Aug-2018 21:18:36 UTC] PHP   3. WP_Hook->do_action() /home/ubuntu/workspace/wp-includes/plugin.php:453
+[02-Aug-2018 21:18:36 UTC] PHP   4. WP_Hook->apply_filters() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:323
+[02-Aug-2018 21:18:36 UTC] PHP   5. call_user_func_array:{/home/ubuntu/workspace/wp-includes/class-wp-hook.php:298}() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:298
+[02-Aug-2018 21:18:36 UTC] PHP   6. Vc_Shortcode_Edit_Form->renderFields() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:298
+[02-Aug-2018 21:18:36 UTC] PHP   7. Vc_Edit_Form_Fields->render() /home/ubuntu/workspace/wp-content/plugins/js_composer/include/classes/editors/popups/class-vc-shortcode-edit-form.php:73
+[02-Aug-2018 21:18:36 UTC] PHP   8. Vc_Edit_Form_Fields->renderField() /home/ubuntu/workspace/wp-content/plugins/js_composer/include/classes/editors/class-vc-edit-form-fields.php:227
+[02-Aug-2018 21:18:36 UTC] PHP   9. vc_do_shortcode_param_settings_field() /home/ubuntu/workspace/wp-content/plugins/js_composer/include/classes/editors/class-vc-edit-form-fields.php:271
+[02-Aug-2018 21:18:36 UTC] PHP  10. WpbakeryShortcodeParams::renderSettingsField() /home/ubuntu/workspace/wp-content/plugins/js_composer/include/params/params.php:243
+[02-Aug-2018 21:18:36 UTC] PHP  11. call_user_func:{/home/ubuntu/workspace/wp-content/plugins/js_composer/include/params/params.php:145}() /home/ubuntu/workspace/wp-content/plugins/js_composer/include/params/params.php:145
+[02-Aug-2018 21:18:36 UTC] PHP  12. portfolio_category() /home/ubuntu/workspace/wp-content/plugins/js_composer/include/params/params.php:145
+[02-Aug-2018 21:18:36 UTC] PHP  13. in_array() /home/ubuntu/workspace/wp-content/plugins/brando-addons/brando-shortcodes/extend-composer/brando-multiple-portfolio-categories.php:31
+[02-Aug-2018 21:18:36 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/ubuntu/workspace/wp-content/plugins/brando-addons/brando-shortcodes/extend-composer/brando-multiple-portfolio-categories.php on line 31
+[02-Aug-2018 21:18:36 UTC] PHP Stack trace:
+[02-Aug-2018 21:18:36 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/admin-ajax.php:0
+[02-Aug-2018 21:18:36 UTC] PHP   2. do_action() /home/ubuntu/workspace/wp-admin/admin-ajax.php:91
+[02-Aug-2018 21:18:36 UTC] PHP   3. WP_Hook->do_action() /home/ubuntu/workspace/wp-includes/plugin.php:453
+[02-Aug-2018 21:18:36 UTC] PHP   4. WP_Hook->apply_filters() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:323
+[02-Aug-2018 21:18:36 UTC] PHP   5. call_user_func_array:{/home/ubuntu/workspace/wp-includes/class-wp-hook.php:298}() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:298
+[02-Aug-2018 21:18:36 UTC] PHP   6. Vc_Shortcode_Edit_Form->renderFields() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:298
+[02-Aug-2018 21:18:36 UTC] PHP   7. Vc_Edit_Form_Fields->render() /home/ubuntu/workspace/wp-content/plugins/js_composer/include/classes/editors/popups/class-vc-shortcode-edit-form.php:73
+[02-Aug-2018 21:18:36 UTC] PHP   8. Vc_Edit_Form_Fields->renderField() /home/ubuntu/workspace/wp-content/plugins/js_composer/include/classes/editors/class-vc-edit-form-fields.php:227
+[02-Aug-2018 21:18:36 UTC] PHP   9. vc_do_shortcode_param_settings_field() /home/ubuntu/workspace/wp-content/plugins/js_composer/include/classes/editors/class-vc-edit-form-fields.php:271
+[02-Aug-2018 21:18:36 UTC] PHP  10. WpbakeryShortcodeParams::renderSettingsField() /home/ubuntu/workspace/wp-content/plugins/js_composer/include/params/params.php:243
+[02-Aug-2018 21:18:36 UTC] PHP  11. call_user_func:{/home/ubuntu/workspace/wp-content/plugins/js_composer/include/params/params.php:145}() /home/ubuntu/workspace/wp-content/plugins/js_composer/include/params/params.php:145
+[02-Aug-2018 21:18:36 UTC] PHP  12. portfolio_category() /home/ubuntu/workspace/wp-content/plugins/js_composer/include/params/params.php:145
+[02-Aug-2018 21:18:36 UTC] PHP  13. in_array() /home/ubuntu/workspace/wp-content/plugins/brando-addons/brando-shortcodes/extend-composer/brando-multiple-portfolio-categories.php:31
+[02-Aug-2018 21:20:41 UTC] PHP Warning:  explode() expects parameter 2 to be string, array given in /home/ubuntu/workspace/wp-content/plugins/brando-addons/brando-shortcodes/extend-composer/brando-multiple-portfolio-categories.php on line 11
+[02-Aug-2018 21:20:41 UTC] PHP Stack trace:
+[02-Aug-2018 21:20:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/admin-ajax.php:0
+[02-Aug-2018 21:20:41 UTC] PHP   2. do_action() /home/ubuntu/workspace/wp-admin/admin-ajax.php:91
+[02-Aug-2018 21:20:41 UTC] PHP   3. WP_Hook->do_action() /home/ubuntu/workspace/wp-includes/plugin.php:453
+[02-Aug-2018 21:20:41 UTC] PHP   4. WP_Hook->apply_filters() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:323
+[02-Aug-2018 21:20:41 UTC] PHP   5. call_user_func_array:{/home/ubuntu/workspace/wp-includes/class-wp-hook.php:298}() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:298
+[02-Aug-2018 21:20:41 UTC] PHP   6. Vc_Shortcode_Edit_Form->renderFields() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:298
+[02-Aug-2018 21:20:41 UTC] PHP   7. Vc_Edit_Form_Fields->render() /home/ubuntu/workspace/wp-content/plugins/js_composer/include/classes/editors/popups/class-vc-shortcode-edit-form.php:73
+[02-Aug-2018 21:20:41 UTC] PHP   8. Vc_Edit_Form_Fields->renderField() /home/ubuntu/workspace/wp-content/plugins/js_composer/include/classes/editors/class-vc-edit-form-fields.php:227
+[02-Aug-2018 21:20:41 UTC] PHP   9. vc_do_shortcode_param_settings_field() /home/ubuntu/workspace/wp-content/plugins/js_composer/include/classes/editors/class-vc-edit-form-fields.php:271
+[02-Aug-2018 21:20:41 UTC] PHP  10. WpbakeryShortcodeParams::renderSettingsField() /home/ubuntu/workspace/wp-content/plugins/js_composer/include/params/params.php:243
+[02-Aug-2018 21:20:41 UTC] PHP  11. call_user_func:{/home/ubuntu/workspace/wp-content/plugins/js_composer/include/params/params.php:145}() /home/ubuntu/workspace/wp-content/plugins/js_composer/include/params/params.php:145
+[02-Aug-2018 21:20:41 UTC] PHP  12. portfolio_category() /home/ubuntu/workspace/wp-content/plugins/js_composer/include/params/params.php:145
+[02-Aug-2018 21:20:41 UTC] PHP  13. explode() /home/ubuntu/workspace/wp-content/plugins/brando-addons/brando-shortcodes/extend-composer/brando-multiple-portfolio-categories.php:11
+[02-Aug-2018 21:20:41 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/wp-content/plugins/brando-addons/brando-shortcodes/extend-composer/brando-multiple-portfolio-categories.php on line 13
+[02-Aug-2018 21:20:41 UTC] PHP Stack trace:
+[02-Aug-2018 21:20:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/admin-ajax.php:0
+[02-Aug-2018 21:20:41 UTC] PHP   2. do_action() /home/ubuntu/workspace/wp-admin/admin-ajax.php:91
+[02-Aug-2018 21:20:41 UTC] PHP   3. WP_Hook->do_action() /home/ubuntu/workspace/wp-includes/plugin.php:453
+[02-Aug-2018 21:20:41 UTC] PHP   4. WP_Hook->apply_filters() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:323
+[02-Aug-2018 21:20:41 UTC] PHP   5. call_user_func_array:{/home/ubuntu/workspace/wp-includes/class-wp-hook.php:298}() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:298
+[02-Aug-2018 21:20:41 UTC] PHP   6. Vc_Shortcode_Edit_Form->renderFields() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:298
+[02-Aug-2018 21:20:41 UTC] PHP   7. Vc_Edit_Form_Fields->render() /home/ubuntu/workspace/wp-content/plugins/js_composer/include/classes/editors/popups/class-vc-shortcode-edit-form.php:73
+[02-Aug-2018 21:20:41 UTC] PHP   8. Vc_Edit_Form_Fields->renderField() /home/ubuntu/workspace/wp-content/plugins/js_composer/include/classes/editors/class-vc-edit-form-fields.php:227
+[02-Aug-2018 21:20:41 UTC] PHP   9. vc_do_shortcode_param_settings_field() /home/ubuntu/workspace/wp-content/plugins/js_composer/include/classes/editors/class-vc-edit-form-fields.php:271
+[02-Aug-2018 21:20:41 UTC] PHP  10. WpbakeryShortcodeParams::renderSettingsField() /home/ubuntu/workspace/wp-content/plugins/js_composer/include/params/params.php:243
+[02-Aug-2018 21:20:41 UTC] PHP  11. call_user_func:{/home/ubuntu/workspace/wp-content/plugins/js_composer/include/params/params.php:145}() /home/ubuntu/workspace/wp-content/plugins/js_composer/include/params/params.php:145
+[02-Aug-2018 21:20:41 UTC] PHP  12. portfolio_category() /home/ubuntu/workspace/wp-content/plugins/js_composer/include/params/params.php:145
+[02-Aug-2018 21:20:41 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/ubuntu/workspace/wp-content/plugins/brando-addons/brando-shortcodes/extend-composer/brando-multiple-portfolio-categories.php on line 31
+[02-Aug-2018 21:20:41 UTC] PHP Stack trace:
+[02-Aug-2018 21:20:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/admin-ajax.php:0
+[02-Aug-2018 21:20:41 UTC] PHP   2. do_action() /home/ubuntu/workspace/wp-admin/admin-ajax.php:91
+[02-Aug-2018 21:20:41 UTC] PHP   3. WP_Hook->do_action() /home/ubuntu/workspace/wp-includes/plugin.php:453
+[02-Aug-2018 21:20:41 UTC] PHP   4. WP_Hook->apply_filters() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:323
+[02-Aug-2018 21:20:41 UTC] PHP   5. call_user_func_array:{/home/ubuntu/workspace/wp-includes/class-wp-hook.php:298}() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:298
+[02-Aug-2018 21:20:41 UTC] PHP   6. Vc_Shortcode_Edit_Form->renderFields() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:298
+[02-Aug-2018 21:20:41 UTC] PHP   7. Vc_Edit_Form_Fields->render() /home/ubuntu/workspace/wp-content/plugins/js_composer/include/classes/editors/popups/class-vc-shortcode-edit-form.php:73
+[02-Aug-2018 21:20:41 UTC] PHP   8. Vc_Edit_Form_Fields->renderField() /home/ubuntu/workspace/wp-content/plugins/js_composer/include/classes/editors/class-vc-edit-form-fields.php:227
+[02-Aug-2018 21:20:41 UTC] PHP   9. vc_do_shortcode_param_settings_field() /home/ubuntu/workspace/wp-content/plugins/js_composer/include/classes/editors/class-vc-edit-form-fields.php:271
+[02-Aug-2018 21:20:41 UTC] PHP  10. WpbakeryShortcodeParams::renderSettingsField() /home/ubuntu/workspace/wp-content/plugins/js_composer/include/params/params.php:243
+[02-Aug-2018 21:20:41 UTC] PHP  11. call_user_func:{/home/ubuntu/workspace/wp-content/plugins/js_composer/include/params/params.php:145}() /home/ubuntu/workspace/wp-content/plugins/js_composer/include/params/params.php:145
+[02-Aug-2018 21:20:41 UTC] PHP  12. portfolio_category() /home/ubuntu/workspace/wp-content/plugins/js_composer/include/params/params.php:145
+[02-Aug-2018 21:20:41 UTC] PHP  13. in_array() /home/ubuntu/workspace/wp-content/plugins/brando-addons/brando-shortcodes/extend-composer/brando-multiple-portfolio-categories.php:31
+[02-Aug-2018 21:20:41 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/ubuntu/workspace/wp-content/plugins/brando-addons/brando-shortcodes/extend-composer/brando-multiple-portfolio-categories.php on line 31
+[02-Aug-2018 21:20:41 UTC] PHP Stack trace:
+[02-Aug-2018 21:20:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/admin-ajax.php:0
+[02-Aug-2018 21:20:41 UTC] PHP   2. do_action() /home/ubuntu/workspace/wp-admin/admin-ajax.php:91
+[02-Aug-2018 21:20:41 UTC] PHP   3. WP_Hook->do_action() /home/ubuntu/workspace/wp-includes/plugin.php:453
+[02-Aug-2018 21:20:41 UTC] PHP   4. WP_Hook->apply_filters() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:323
+[02-Aug-2018 21:20:41 UTC] PHP   5. call_user_func_array:{/home/ubuntu/workspace/wp-includes/class-wp-hook.php:298}() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:298
+[02-Aug-2018 21:20:41 UTC] PHP   6. Vc_Shortcode_Edit_Form->renderFields() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:298
+[02-Aug-2018 21:20:41 UTC] PHP   7. Vc_Edit_Form_Fields->render() /home/ubuntu/workspace/wp-content/plugins/js_composer/include/classes/editors/popups/class-vc-shortcode-edit-form.php:73
+[02-Aug-2018 21:20:41 UTC] PHP   8. Vc_Edit_Form_Fields->renderField() /home/ubuntu/workspace/wp-content/plugins/js_composer/include/classes/editors/class-vc-edit-form-fields.php:227
+[02-Aug-2018 21:20:41 UTC] PHP   9. vc_do_shortcode_param_settings_field() /home/ubuntu/workspace/wp-content/plugins/js_composer/include/classes/editors/class-vc-edit-form-fields.php:271
+[02-Aug-2018 21:20:41 UTC] PHP  10. WpbakeryShortcodeParams::renderSettingsField() /home/ubuntu/workspace/wp-content/plugins/js_composer/include/params/params.php:243
+[02-Aug-2018 21:20:41 UTC] PHP  11. call_user_func:{/home/ubuntu/workspace/wp-content/plugins/js_composer/include/params/params.php:145}() /home/ubuntu/workspace/wp-content/plugins/js_composer/include/params/params.php:145
+[02-Aug-2018 21:20:41 UTC] PHP  12. portfolio_category() /home/ubuntu/workspace/wp-content/plugins/js_composer/include/params/params.php:145
+[02-Aug-2018 21:20:41 UTC] PHP  13. in_array() /home/ubuntu/workspace/wp-content/plugins/brando-addons/brando-shortcodes/extend-composer/brando-multiple-portfolio-categories.php:31
+[02-Aug-2018 21:20:41 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/ubuntu/workspace/wp-content/plugins/brando-addons/brando-shortcodes/extend-composer/brando-multiple-portfolio-categories.php on line 31
+[02-Aug-2018 21:20:41 UTC] PHP Stack trace:
+[02-Aug-2018 21:20:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/admin-ajax.php:0
+[02-Aug-2018 21:20:41 UTC] PHP   2. do_action() /home/ubuntu/workspace/wp-admin/admin-ajax.php:91
+[02-Aug-2018 21:20:41 UTC] PHP   3. WP_Hook->do_action() /home/ubuntu/workspace/wp-includes/plugin.php:453
+[02-Aug-2018 21:20:41 UTC] PHP   4. WP_Hook->apply_filters() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:323
+[02-Aug-2018 21:20:41 UTC] PHP   5. call_user_func_array:{/home/ubuntu/workspace/wp-includes/class-wp-hook.php:298}() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:298
+[02-Aug-2018 21:20:41 UTC] PHP   6. Vc_Shortcode_Edit_Form->renderFields() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:298
+[02-Aug-2018 21:20:41 UTC] PHP   7. Vc_Edit_Form_Fields->render() /home/ubuntu/workspace/wp-content/plugins/js_composer/include/classes/editors/popups/class-vc-shortcode-edit-form.php:73
+[02-Aug-2018 21:20:41 UTC] PHP   8. Vc_Edit_Form_Fields->renderField() /home/ubuntu/workspace/wp-content/plugins/js_composer/include/classes/editors/class-vc-edit-form-fields.php:227
+[02-Aug-2018 21:20:41 UTC] PHP   9. vc_do_shortcode_param_settings_field() /home/ubuntu/workspace/wp-content/plugins/js_composer/include/classes/editors/class-vc-edit-form-fields.php:271
+[02-Aug-2018 21:20:41 UTC] PHP  10. WpbakeryShortcodeParams::renderSettingsField() /home/ubuntu/workspace/wp-content/plugins/js_composer/include/params/params.php:243
+[02-Aug-2018 21:20:41 UTC] PHP  11. call_user_func:{/home/ubuntu/workspace/wp-content/plugins/js_composer/include/params/params.php:145}() /home/ubuntu/workspace/wp-content/plugins/js_composer/include/params/params.php:145
+[02-Aug-2018 21:20:41 UTC] PHP  12. portfolio_category() /home/ubuntu/workspace/wp-content/plugins/js_composer/include/params/params.php:145
+[02-Aug-2018 21:20:41 UTC] PHP  13. in_array() /home/ubuntu/workspace/wp-content/plugins/brando-addons/brando-shortcodes/extend-composer/brando-multiple-portfolio-categories.php:31
+[02-Aug-2018 21:20:41 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/ubuntu/workspace/wp-content/plugins/brando-addons/brando-shortcodes/extend-composer/brando-multiple-portfolio-categories.php on line 31
+[02-Aug-2018 21:20:41 UTC] PHP Stack trace:
+[02-Aug-2018 21:20:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/admin-ajax.php:0
+[02-Aug-2018 21:20:41 UTC] PHP   2. do_action() /home/ubuntu/workspace/wp-admin/admin-ajax.php:91
+[02-Aug-2018 21:20:41 UTC] PHP   3. WP_Hook->do_action() /home/ubuntu/workspace/wp-includes/plugin.php:453
+[02-Aug-2018 21:20:41 UTC] PHP   4. WP_Hook->apply_filters() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:323
+[02-Aug-2018 21:20:41 UTC] PHP   5. call_user_func_array:{/home/ubuntu/workspace/wp-includes/class-wp-hook.php:298}() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:298
+[02-Aug-2018 21:20:41 UTC] PHP   6. Vc_Shortcode_Edit_Form->renderFields() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:298
+[02-Aug-2018 21:20:41 UTC] PHP   7. Vc_Edit_Form_Fields->render() /home/ubuntu/workspace/wp-content/plugins/js_composer/include/classes/editors/popups/class-vc-shortcode-edit-form.php:73
+[02-Aug-2018 21:20:41 UTC] PHP   8. Vc_Edit_Form_Fields->renderField() /home/ubuntu/workspace/wp-content/plugins/js_composer/include/classes/editors/class-vc-edit-form-fields.php:227
+[02-Aug-2018 21:20:41 UTC] PHP   9. vc_do_shortcode_param_settings_field() /home/ubuntu/workspace/wp-content/plugins/js_composer/include/classes/editors/class-vc-edit-form-fields.php:271
+[02-Aug-2018 21:20:41 UTC] PHP  10. WpbakeryShortcodeParams::renderSettingsField() /home/ubuntu/workspace/wp-content/plugins/js_composer/include/params/params.php:243
+[02-Aug-2018 21:20:41 UTC] PHP  11. call_user_func:{/home/ubuntu/workspace/wp-content/plugins/js_composer/include/params/params.php:145}() /home/ubuntu/workspace/wp-content/plugins/js_composer/include/params/params.php:145
+[02-Aug-2018 21:20:41 UTC] PHP  12. portfolio_category() /home/ubuntu/workspace/wp-content/plugins/js_composer/include/params/params.php:145
+[02-Aug-2018 21:20:41 UTC] PHP  13. in_array() /home/ubuntu/workspace/wp-content/plugins/brando-addons/brando-shortcodes/extend-composer/brando-multiple-portfolio-categories.php:31
+[02-Aug-2018 21:20:41 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/ubuntu/workspace/wp-content/plugins/brando-addons/brando-shortcodes/extend-composer/brando-multiple-portfolio-categories.php on line 31
+[02-Aug-2018 21:20:41 UTC] PHP Stack trace:
+[02-Aug-2018 21:20:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/admin-ajax.php:0
+[02-Aug-2018 21:20:41 UTC] PHP   2. do_action() /home/ubuntu/workspace/wp-admin/admin-ajax.php:91
+[02-Aug-2018 21:20:41 UTC] PHP   3. WP_Hook->do_action() /home/ubuntu/workspace/wp-includes/plugin.php:453
+[02-Aug-2018 21:20:41 UTC] PHP   4. WP_Hook->apply_filters() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:323
+[02-Aug-2018 21:20:41 UTC] PHP   5. call_user_func_array:{/home/ubuntu/workspace/wp-includes/class-wp-hook.php:298}() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:298
+[02-Aug-2018 21:20:41 UTC] PHP   6. Vc_Shortcode_Edit_Form->renderFields() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:298
+[02-Aug-2018 21:20:41 UTC] PHP   7. Vc_Edit_Form_Fields->render() /home/ubuntu/workspace/wp-content/plugins/js_composer/include/classes/editors/popups/class-vc-shortcode-edit-form.php:73
+[02-Aug-2018 21:20:41 UTC] PHP   8. Vc_Edit_Form_Fields->renderField() /home/ubuntu/workspace/wp-content/plugins/js_composer/include/classes/editors/class-vc-edit-form-fields.php:227
+[02-Aug-2018 21:20:41 UTC] PHP   9. vc_do_shortcode_param_settings_field() /home/ubuntu/workspace/wp-content/plugins/js_composer/include/classes/editors/class-vc-edit-form-fields.php:271
+[02-Aug-2018 21:20:41 UTC] PHP  10. WpbakeryShortcodeParams::renderSettingsField() /home/ubuntu/workspace/wp-content/plugins/js_composer/include/params/params.php:243
+[02-Aug-2018 21:20:41 UTC] PHP  11. call_user_func:{/home/ubuntu/workspace/wp-content/plugins/js_composer/include/params/params.php:145}() /home/ubuntu/workspace/wp-content/plugins/js_composer/include/params/params.php:145
+[02-Aug-2018 21:20:41 UTC] PHP  12. portfolio_category() /home/ubuntu/workspace/wp-content/plugins/js_composer/include/params/params.php:145
+[02-Aug-2018 21:20:41 UTC] PHP  13. in_array() /home/ubuntu/workspace/wp-content/plugins/brando-addons/brando-shortcodes/extend-composer/brando-multiple-portfolio-categories.php:31
+[02-Aug-2018 21:20:41 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/ubuntu/workspace/wp-content/plugins/brando-addons/brando-shortcodes/extend-composer/brando-multiple-portfolio-categories.php on line 31
+[02-Aug-2018 21:20:41 UTC] PHP Stack trace:
+[02-Aug-2018 21:20:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/admin-ajax.php:0
+[02-Aug-2018 21:20:41 UTC] PHP   2. do_action() /home/ubuntu/workspace/wp-admin/admin-ajax.php:91
+[02-Aug-2018 21:20:41 UTC] PHP   3. WP_Hook->do_action() /home/ubuntu/workspace/wp-includes/plugin.php:453
+[02-Aug-2018 21:20:41 UTC] PHP   4. WP_Hook->apply_filters() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:323
+[02-Aug-2018 21:20:41 UTC] PHP   5. call_user_func_array:{/home/ubuntu/workspace/wp-includes/class-wp-hook.php:298}() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:298
+[02-Aug-2018 21:20:41 UTC] PHP   6. Vc_Shortcode_Edit_Form->renderFields() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:298
+[02-Aug-2018 21:20:41 UTC] PHP   7. Vc_Edit_Form_Fields->render() /home/ubuntu/workspace/wp-content/plugins/js_composer/include/classes/editors/popups/class-vc-shortcode-edit-form.php:73
+[02-Aug-2018 21:20:41 UTC] PHP   8. Vc_Edit_Form_Fields->renderField() /home/ubuntu/workspace/wp-content/plugins/js_composer/include/classes/editors/class-vc-edit-form-fields.php:227
+[02-Aug-2018 21:20:41 UTC] PHP   9. vc_do_shortcode_param_settings_field() /home/ubuntu/workspace/wp-content/plugins/js_composer/include/classes/editors/class-vc-edit-form-fields.php:271
+[02-Aug-2018 21:20:41 UTC] PHP  10. WpbakeryShortcodeParams::renderSettingsField() /home/ubuntu/workspace/wp-content/plugins/js_composer/include/params/params.php:243
+[02-Aug-2018 21:20:41 UTC] PHP  11. call_user_func:{/home/ubuntu/workspace/wp-content/plugins/js_composer/include/params/params.php:145}() /home/ubuntu/workspace/wp-content/plugins/js_composer/include/params/params.php:145
+[02-Aug-2018 21:20:41 UTC] PHP  12. portfolio_category() /home/ubuntu/workspace/wp-content/plugins/js_composer/include/params/params.php:145
+[02-Aug-2018 21:20:41 UTC] PHP  13. in_array() /home/ubuntu/workspace/wp-content/plugins/brando-addons/brando-shortcodes/extend-composer/brando-multiple-portfolio-categories.php:31
+[02-Aug-2018 21:20:41 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/ubuntu/workspace/wp-content/plugins/brando-addons/brando-shortcodes/extend-composer/brando-multiple-portfolio-categories.php on line 31
+[02-Aug-2018 21:20:41 UTC] PHP Stack trace:
+[02-Aug-2018 21:20:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/admin-ajax.php:0
+[02-Aug-2018 21:20:41 UTC] PHP   2. do_action() /home/ubuntu/workspace/wp-admin/admin-ajax.php:91
+[02-Aug-2018 21:20:41 UTC] PHP   3. WP_Hook->do_action() /home/ubuntu/workspace/wp-includes/plugin.php:453
+[02-Aug-2018 21:20:41 UTC] PHP   4. WP_Hook->apply_filters() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:323
+[02-Aug-2018 21:20:41 UTC] PHP   5. call_user_func_array:{/home/ubuntu/workspace/wp-includes/class-wp-hook.php:298}() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:298
+[02-Aug-2018 21:20:41 UTC] PHP   6. Vc_Shortcode_Edit_Form->renderFields() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:298
+[02-Aug-2018 21:20:41 UTC] PHP   7. Vc_Edit_Form_Fields->render() /home/ubuntu/workspace/wp-content/plugins/js_composer/include/classes/editors/popups/class-vc-shortcode-edit-form.php:73
+[02-Aug-2018 21:20:41 UTC] PHP   8. Vc_Edit_Form_Fields->renderField() /home/ubuntu/workspace/wp-content/plugins/js_composer/include/classes/editors/class-vc-edit-form-fields.php:227
+[02-Aug-2018 21:20:41 UTC] PHP   9. vc_do_shortcode_param_settings_field() /home/ubuntu/workspace/wp-content/plugins/js_composer/include/classes/editors/class-vc-edit-form-fields.php:271
+[02-Aug-2018 21:20:41 UTC] PHP  10. WpbakeryShortcodeParams::renderSettingsField() /home/ubuntu/workspace/wp-content/plugins/js_composer/include/params/params.php:243
+[02-Aug-2018 21:20:41 UTC] PHP  11. call_user_func:{/home/ubuntu/workspace/wp-content/plugins/js_composer/include/params/params.php:145}() /home/ubuntu/workspace/wp-content/plugins/js_composer/include/params/params.php:145
+[02-Aug-2018 21:20:41 UTC] PHP  12. portfolio_category() /home/ubuntu/workspace/wp-content/plugins/js_composer/include/params/params.php:145
+[02-Aug-2018 21:20:41 UTC] PHP  13. in_array() /home/ubuntu/workspace/wp-content/plugins/brando-addons/brando-shortcodes/extend-composer/brando-multiple-portfolio-categories.php:31
+[02-Aug-2018 21:20:41 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/ubuntu/workspace/wp-content/plugins/brando-addons/brando-shortcodes/extend-composer/brando-multiple-portfolio-categories.php on line 31
+[02-Aug-2018 21:20:41 UTC] PHP Stack trace:
+[02-Aug-2018 21:20:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/admin-ajax.php:0
+[02-Aug-2018 21:20:41 UTC] PHP   2. do_action() /home/ubuntu/workspace/wp-admin/admin-ajax.php:91
+[02-Aug-2018 21:20:41 UTC] PHP   3. WP_Hook->do_action() /home/ubuntu/workspace/wp-includes/plugin.php:453
+[02-Aug-2018 21:20:41 UTC] PHP   4. WP_Hook->apply_filters() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:323
+[02-Aug-2018 21:20:41 UTC] PHP   5. call_user_func_array:{/home/ubuntu/workspace/wp-includes/class-wp-hook.php:298}() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:298
+[02-Aug-2018 21:20:41 UTC] PHP   6. Vc_Shortcode_Edit_Form->renderFields() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:298
+[02-Aug-2018 21:20:41 UTC] PHP   7. Vc_Edit_Form_Fields->render() /home/ubuntu/workspace/wp-content/plugins/js_composer/include/classes/editors/popups/class-vc-shortcode-edit-form.php:73
+[02-Aug-2018 21:20:41 UTC] PHP   8. Vc_Edit_Form_Fields->renderField() /home/ubuntu/workspace/wp-content/plugins/js_composer/include/classes/editors/class-vc-edit-form-fields.php:227
+[02-Aug-2018 21:20:41 UTC] PHP   9. vc_do_shortcode_param_settings_field() /home/ubuntu/workspace/wp-content/plugins/js_composer/include/classes/editors/class-vc-edit-form-fields.php:271
+[02-Aug-2018 21:20:41 UTC] PHP  10. WpbakeryShortcodeParams::renderSettingsField() /home/ubuntu/workspace/wp-content/plugins/js_composer/include/params/params.php:243
+[02-Aug-2018 21:20:41 UTC] PHP  11. call_user_func:{/home/ubuntu/workspace/wp-content/plugins/js_composer/include/params/params.php:145}() /home/ubuntu/workspace/wp-content/plugins/js_composer/include/params/params.php:145
+[02-Aug-2018 21:20:41 UTC] PHP  12. portfolio_category() /home/ubuntu/workspace/wp-content/plugins/js_composer/include/params/params.php:145
+[02-Aug-2018 21:20:41 UTC] PHP  13. in_array() /home/ubuntu/workspace/wp-content/plugins/brando-addons/brando-shortcodes/extend-composer/brando-multiple-portfolio-categories.php:31
+[02-Aug-2018 21:20:41 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/ubuntu/workspace/wp-content/plugins/brando-addons/brando-shortcodes/extend-composer/brando-multiple-portfolio-categories.php on line 31
+[02-Aug-2018 21:20:41 UTC] PHP Stack trace:
+[02-Aug-2018 21:20:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/admin-ajax.php:0
+[02-Aug-2018 21:20:41 UTC] PHP   2. do_action() /home/ubuntu/workspace/wp-admin/admin-ajax.php:91
+[02-Aug-2018 21:20:41 UTC] PHP   3. WP_Hook->do_action() /home/ubuntu/workspace/wp-includes/plugin.php:453
+[02-Aug-2018 21:20:41 UTC] PHP   4. WP_Hook->apply_filters() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:323
+[02-Aug-2018 21:20:41 UTC] PHP   5. call_user_func_array:{/home/ubuntu/workspace/wp-includes/class-wp-hook.php:298}() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:298
+[02-Aug-2018 21:20:41 UTC] PHP   6. Vc_Shortcode_Edit_Form->renderFields() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:298
+[02-Aug-2018 21:20:41 UTC] PHP   7. Vc_Edit_Form_Fields->render() /home/ubuntu/workspace/wp-content/plugins/js_composer/include/classes/editors/popups/class-vc-shortcode-edit-form.php:73
+[02-Aug-2018 21:20:41 UTC] PHP   8. Vc_Edit_Form_Fields->renderField() /home/ubuntu/workspace/wp-content/plugins/js_composer/include/classes/editors/class-vc-edit-form-fields.php:227
+[02-Aug-2018 21:20:41 UTC] PHP   9. vc_do_shortcode_param_settings_field() /home/ubuntu/workspace/wp-content/plugins/js_composer/include/classes/editors/class-vc-edit-form-fields.php:271
+[02-Aug-2018 21:20:41 UTC] PHP  10. WpbakeryShortcodeParams::renderSettingsField() /home/ubuntu/workspace/wp-content/plugins/js_composer/include/params/params.php:243
+[02-Aug-2018 21:20:41 UTC] PHP  11. call_user_func:{/home/ubuntu/workspace/wp-content/plugins/js_composer/include/params/params.php:145}() /home/ubuntu/workspace/wp-content/plugins/js_composer/include/params/params.php:145
+[02-Aug-2018 21:20:41 UTC] PHP  12. portfolio_category() /home/ubuntu/workspace/wp-content/plugins/js_composer/include/params/params.php:145
+[02-Aug-2018 21:20:41 UTC] PHP  13. in_array() /home/ubuntu/workspace/wp-content/plugins/brando-addons/brando-shortcodes/extend-composer/brando-multiple-portfolio-categories.php:31
+[02-Aug-2018 21:20:41 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/ubuntu/workspace/wp-content/plugins/brando-addons/brando-shortcodes/extend-composer/brando-multiple-portfolio-categories.php on line 31
+[02-Aug-2018 21:20:41 UTC] PHP Stack trace:
+[02-Aug-2018 21:20:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/admin-ajax.php:0
+[02-Aug-2018 21:20:41 UTC] PHP   2. do_action() /home/ubuntu/workspace/wp-admin/admin-ajax.php:91
+[02-Aug-2018 21:20:41 UTC] PHP   3. WP_Hook->do_action() /home/ubuntu/workspace/wp-includes/plugin.php:453
+[02-Aug-2018 21:20:41 UTC] PHP   4. WP_Hook->apply_filters() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:323
+[02-Aug-2018 21:20:41 UTC] PHP   5. call_user_func_array:{/home/ubuntu/workspace/wp-includes/class-wp-hook.php:298}() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:298
+[02-Aug-2018 21:20:41 UTC] PHP   6. Vc_Shortcode_Edit_Form->renderFields() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:298
+[02-Aug-2018 21:20:41 UTC] PHP   7. Vc_Edit_Form_Fields->render() /home/ubuntu/workspace/wp-content/plugins/js_composer/include/classes/editors/popups/class-vc-shortcode-edit-form.php:73
+[02-Aug-2018 21:20:41 UTC] PHP   8. Vc_Edit_Form_Fields->renderField() /home/ubuntu/workspace/wp-content/plugins/js_composer/include/classes/editors/class-vc-edit-form-fields.php:227
+[02-Aug-2018 21:20:41 UTC] PHP   9. vc_do_shortcode_param_settings_field() /home/ubuntu/workspace/wp-content/plugins/js_composer/include/classes/editors/class-vc-edit-form-fields.php:271
+[02-Aug-2018 21:20:41 UTC] PHP  10. WpbakeryShortcodeParams::renderSettingsField() /home/ubuntu/workspace/wp-content/plugins/js_composer/include/params/params.php:243
+[02-Aug-2018 21:20:41 UTC] PHP  11. call_user_func:{/home/ubuntu/workspace/wp-content/plugins/js_composer/include/params/params.php:145}() /home/ubuntu/workspace/wp-content/plugins/js_composer/include/params/params.php:145
+[02-Aug-2018 21:20:41 UTC] PHP  12. portfolio_category() /home/ubuntu/workspace/wp-content/plugins/js_composer/include/params/params.php:145
+[02-Aug-2018 21:20:41 UTC] PHP  13. in_array() /home/ubuntu/workspace/wp-content/plugins/brando-addons/brando-shortcodes/extend-composer/brando-multiple-portfolio-categories.php:31
+[02-Aug-2018 21:20:41 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/ubuntu/workspace/wp-content/plugins/brando-addons/brando-shortcodes/extend-composer/brando-multiple-portfolio-categories.php on line 31
+[02-Aug-2018 21:20:41 UTC] PHP Stack trace:
+[02-Aug-2018 21:20:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/admin-ajax.php:0
+[02-Aug-2018 21:20:41 UTC] PHP   2. do_action() /home/ubuntu/workspace/wp-admin/admin-ajax.php:91
+[02-Aug-2018 21:20:41 UTC] PHP   3. WP_Hook->do_action() /home/ubuntu/workspace/wp-includes/plugin.php:453
+[02-Aug-2018 21:20:41 UTC] PHP   4. WP_Hook->apply_filters() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:323
+[02-Aug-2018 21:20:41 UTC] PHP   5. call_user_func_array:{/home/ubuntu/workspace/wp-includes/class-wp-hook.php:298}() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:298
+[02-Aug-2018 21:20:41 UTC] PHP   6. Vc_Shortcode_Edit_Form->renderFields() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:298
+[02-Aug-2018 21:20:41 UTC] PHP   7. Vc_Edit_Form_Fields->render() /home/ubuntu/workspace/wp-content/plugins/js_composer/include/classes/editors/popups/class-vc-shortcode-edit-form.php:73
+[02-Aug-2018 21:20:41 UTC] PHP   8. Vc_Edit_Form_Fields->renderField() /home/ubuntu/workspace/wp-content/plugins/js_composer/include/classes/editors/class-vc-edit-form-fields.php:227
+[02-Aug-2018 21:20:41 UTC] PHP   9. vc_do_shortcode_param_settings_field() /home/ubuntu/workspace/wp-content/plugins/js_composer/include/classes/editors/class-vc-edit-form-fields.php:271
+[02-Aug-2018 21:20:41 UTC] PHP  10. WpbakeryShortcodeParams::renderSettingsField() /home/ubuntu/workspace/wp-content/plugins/js_composer/include/params/params.php:243
+[02-Aug-2018 21:20:41 UTC] PHP  11. call_user_func:{/home/ubuntu/workspace/wp-content/plugins/js_composer/include/params/params.php:145}() /home/ubuntu/workspace/wp-content/plugins/js_composer/include/params/params.php:145
+[02-Aug-2018 21:20:41 UTC] PHP  12. portfolio_category() /home/ubuntu/workspace/wp-content/plugins/js_composer/include/params/params.php:145
+[02-Aug-2018 21:20:41 UTC] PHP  13. in_array() /home/ubuntu/workspace/wp-content/plugins/brando-addons/brando-shortcodes/extend-composer/brando-multiple-portfolio-categories.php:31
+[02-Aug-2018 21:20:41 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/ubuntu/workspace/wp-content/plugins/brando-addons/brando-shortcodes/extend-composer/brando-multiple-portfolio-categories.php on line 31
+[02-Aug-2018 21:20:41 UTC] PHP Stack trace:
+[02-Aug-2018 21:20:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/admin-ajax.php:0
+[02-Aug-2018 21:20:41 UTC] PHP   2. do_action() /home/ubuntu/workspace/wp-admin/admin-ajax.php:91
+[02-Aug-2018 21:20:41 UTC] PHP   3. WP_Hook->do_action() /home/ubuntu/workspace/wp-includes/plugin.php:453
+[02-Aug-2018 21:20:41 UTC] PHP   4. WP_Hook->apply_filters() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:323
+[02-Aug-2018 21:20:41 UTC] PHP   5. call_user_func_array:{/home/ubuntu/workspace/wp-includes/class-wp-hook.php:298}() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:298
+[02-Aug-2018 21:20:41 UTC] PHP   6. Vc_Shortcode_Edit_Form->renderFields() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:298
+[02-Aug-2018 21:20:41 UTC] PHP   7. Vc_Edit_Form_Fields->render() /home/ubuntu/workspace/wp-content/plugins/js_composer/include/classes/editors/popups/class-vc-shortcode-edit-form.php:73
+[02-Aug-2018 21:20:41 UTC] PHP   8. Vc_Edit_Form_Fields->renderField() /home/ubuntu/workspace/wp-content/plugins/js_composer/include/classes/editors/class-vc-edit-form-fields.php:227
+[02-Aug-2018 21:20:41 UTC] PHP   9. vc_do_shortcode_param_settings_field() /home/ubuntu/workspace/wp-content/plugins/js_composer/include/classes/editors/class-vc-edit-form-fields.php:271
+[02-Aug-2018 21:20:41 UTC] PHP  10. WpbakeryShortcodeParams::renderSettingsField() /home/ubuntu/workspace/wp-content/plugins/js_composer/include/params/params.php:243
+[02-Aug-2018 21:20:41 UTC] PHP  11. call_user_func:{/home/ubuntu/workspace/wp-content/plugins/js_composer/include/params/params.php:145}() /home/ubuntu/workspace/wp-content/plugins/js_composer/include/params/params.php:145
+[02-Aug-2018 21:20:41 UTC] PHP  12. portfolio_category() /home/ubuntu/workspace/wp-content/plugins/js_composer/include/params/params.php:145
+[02-Aug-2018 21:20:41 UTC] PHP  13. in_array() /home/ubuntu/workspace/wp-content/plugins/brando-addons/brando-shortcodes/extend-composer/brando-multiple-portfolio-categories.php:31
+[02-Aug-2018 21:20:41 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/ubuntu/workspace/wp-content/plugins/brando-addons/brando-shortcodes/extend-composer/brando-multiple-portfolio-categories.php on line 31
+[02-Aug-2018 21:20:41 UTC] PHP Stack trace:
+[02-Aug-2018 21:20:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/admin-ajax.php:0
+[02-Aug-2018 21:20:41 UTC] PHP   2. do_action() /home/ubuntu/workspace/wp-admin/admin-ajax.php:91
+[02-Aug-2018 21:20:41 UTC] PHP   3. WP_Hook->do_action() /home/ubuntu/workspace/wp-includes/plugin.php:453
+[02-Aug-2018 21:20:41 UTC] PHP   4. WP_Hook->apply_filters() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:323
+[02-Aug-2018 21:20:41 UTC] PHP   5. call_user_func_array:{/home/ubuntu/workspace/wp-includes/class-wp-hook.php:298}() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:298
+[02-Aug-2018 21:20:41 UTC] PHP   6. Vc_Shortcode_Edit_Form->renderFields() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:298
+[02-Aug-2018 21:20:41 UTC] PHP   7. Vc_Edit_Form_Fields->render() /home/ubuntu/workspace/wp-content/plugins/js_composer/include/classes/editors/popups/class-vc-shortcode-edit-form.php:73
+[02-Aug-2018 21:20:41 UTC] PHP   8. Vc_Edit_Form_Fields->renderField() /home/ubuntu/workspace/wp-content/plugins/js_composer/include/classes/editors/class-vc-edit-form-fields.php:227
+[02-Aug-2018 21:20:41 UTC] PHP   9. vc_do_shortcode_param_settings_field() /home/ubuntu/workspace/wp-content/plugins/js_composer/include/classes/editors/class-vc-edit-form-fields.php:271
+[02-Aug-2018 21:20:41 UTC] PHP  10. WpbakeryShortcodeParams::renderSettingsField() /home/ubuntu/workspace/wp-content/plugins/js_composer/include/params/params.php:243
+[02-Aug-2018 21:20:41 UTC] PHP  11. call_user_func:{/home/ubuntu/workspace/wp-content/plugins/js_composer/include/params/params.php:145}() /home/ubuntu/workspace/wp-content/plugins/js_composer/include/params/params.php:145
+[02-Aug-2018 21:20:41 UTC] PHP  12. portfolio_category() /home/ubuntu/workspace/wp-content/plugins/js_composer/include/params/params.php:145
+[02-Aug-2018 21:20:41 UTC] PHP  13. in_array() /home/ubuntu/workspace/wp-content/plugins/brando-addons/brando-shortcodes/extend-composer/brando-multiple-portfolio-categories.php:31
+[02-Aug-2018 21:20:41 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/ubuntu/workspace/wp-content/plugins/brando-addons/brando-shortcodes/extend-composer/brando-multiple-portfolio-categories.php on line 31
+[02-Aug-2018 21:20:41 UTC] PHP Stack trace:
+[02-Aug-2018 21:20:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/admin-ajax.php:0
+[02-Aug-2018 21:20:41 UTC] PHP   2. do_action() /home/ubuntu/workspace/wp-admin/admin-ajax.php:91
+[02-Aug-2018 21:20:41 UTC] PHP   3. WP_Hook->do_action() /home/ubuntu/workspace/wp-includes/plugin.php:453
+[02-Aug-2018 21:20:41 UTC] PHP   4. WP_Hook->apply_filters() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:323
+[02-Aug-2018 21:20:41 UTC] PHP   5. call_user_func_array:{/home/ubuntu/workspace/wp-includes/class-wp-hook.php:298}() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:298
+[02-Aug-2018 21:20:41 UTC] PHP   6. Vc_Shortcode_Edit_Form->renderFields() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:298
+[02-Aug-2018 21:20:41 UTC] PHP   7. Vc_Edit_Form_Fields->render() /home/ubuntu/workspace/wp-content/plugins/js_composer/include/classes/editors/popups/class-vc-shortcode-edit-form.php:73
+[02-Aug-2018 21:20:41 UTC] PHP   8. Vc_Edit_Form_Fields->renderField() /home/ubuntu/workspace/wp-content/plugins/js_composer/include/classes/editors/class-vc-edit-form-fields.php:227
+[02-Aug-2018 21:20:41 UTC] PHP   9. vc_do_shortcode_param_settings_field() /home/ubuntu/workspace/wp-content/plugins/js_composer/include/classes/editors/class-vc-edit-form-fields.php:271
+[02-Aug-2018 21:20:41 UTC] PHP  10. WpbakeryShortcodeParams::renderSettingsField() /home/ubuntu/workspace/wp-content/plugins/js_composer/include/params/params.php:243
+[02-Aug-2018 21:20:41 UTC] PHP  11. call_user_func:{/home/ubuntu/workspace/wp-content/plugins/js_composer/include/params/params.php:145}() /home/ubuntu/workspace/wp-content/plugins/js_composer/include/params/params.php:145
+[02-Aug-2018 21:20:41 UTC] PHP  12. portfolio_category() /home/ubuntu/workspace/wp-content/plugins/js_composer/include/params/params.php:145
+[02-Aug-2018 21:20:41 UTC] PHP  13. in_array() /home/ubuntu/workspace/wp-content/plugins/brando-addons/brando-shortcodes/extend-composer/brando-multiple-portfolio-categories.php:31
+[02-Aug-2018 21:20:41 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/ubuntu/workspace/wp-content/plugins/brando-addons/brando-shortcodes/extend-composer/brando-multiple-portfolio-categories.php on line 31
+[02-Aug-2018 21:20:41 UTC] PHP Stack trace:
+[02-Aug-2018 21:20:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/admin-ajax.php:0
+[02-Aug-2018 21:20:41 UTC] PHP   2. do_action() /home/ubuntu/workspace/wp-admin/admin-ajax.php:91
+[02-Aug-2018 21:20:41 UTC] PHP   3. WP_Hook->do_action() /home/ubuntu/workspace/wp-includes/plugin.php:453
+[02-Aug-2018 21:20:41 UTC] PHP   4. WP_Hook->apply_filters() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:323
+[02-Aug-2018 21:20:41 UTC] PHP   5. call_user_func_array:{/home/ubuntu/workspace/wp-includes/class-wp-hook.php:298}() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:298
+[02-Aug-2018 21:20:41 UTC] PHP   6. Vc_Shortcode_Edit_Form->renderFields() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:298
+[02-Aug-2018 21:20:41 UTC] PHP   7. Vc_Edit_Form_Fields->render() /home/ubuntu/workspace/wp-content/plugins/js_composer/include/classes/editors/popups/class-vc-shortcode-edit-form.php:73
+[02-Aug-2018 21:20:41 UTC] PHP   8. Vc_Edit_Form_Fields->renderField() /home/ubuntu/workspace/wp-content/plugins/js_composer/include/classes/editors/class-vc-edit-form-fields.php:227
+[02-Aug-2018 21:20:41 UTC] PHP   9. vc_do_shortcode_param_settings_field() /home/ubuntu/workspace/wp-content/plugins/js_composer/include/classes/editors/class-vc-edit-form-fields.php:271
+[02-Aug-2018 21:20:41 UTC] PHP  10. WpbakeryShortcodeParams::renderSettingsField() /home/ubuntu/workspace/wp-content/plugins/js_composer/include/params/params.php:243
+[02-Aug-2018 21:20:41 UTC] PHP  11. call_user_func:{/home/ubuntu/workspace/wp-content/plugins/js_composer/include/params/params.php:145}() /home/ubuntu/workspace/wp-content/plugins/js_composer/include/params/params.php:145
+[02-Aug-2018 21:20:41 UTC] PHP  12. portfolio_category() /home/ubuntu/workspace/wp-content/plugins/js_composer/include/params/params.php:145
+[02-Aug-2018 21:20:41 UTC] PHP  13. in_array() /home/ubuntu/workspace/wp-content/plugins/brando-addons/brando-shortcodes/extend-composer/brando-multiple-portfolio-categories.php:31

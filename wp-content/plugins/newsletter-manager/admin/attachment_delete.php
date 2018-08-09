@@ -1,0 +1,39 @@
+<?php
+if ( ! defined( 'ABSPATH' ) ) exit;
+if (
+		! isset( $_REQUEST['_wpnonce'] )
+		|| ! wp_verify_nonce( $_REQUEST['_wpnonce'], 'attachment_delete' )
+) {
+
+	wp_nonce_ays( 'attachment_delete' );
+
+	exit();
+
+}
+global $wpdb;
+$_POST = stripslashes_deep($_POST);
+$_GET = stripslashes_deep($_GET);
+$xyz_em_attachId = intval($_GET['id']);
+$xyz_em_campId = intval($_GET['campId']);
+if($xyz_em_attachId=="" || !is_numeric($xyz_em_attachId)){
+	header("Location:".admin_url('admin.php?page=newsletter-manager-manage-campaigns'));
+	exit();
+
+}
+$attachDetails = $wpdb->get_results( $wpdb->prepare( "SELECT * FROM ".$wpdb->prefix."xyz_em_attachment WHERE id= %d",$xyz_em_attachId) ) ;
+
+if(count($attachDetails)==0){
+	header("Location:".admin_url('admin.php?page=newsletter-manager-manage-campaigns'));
+	exit();
+}else{
+	$attachDetails = $attachDetails[0];
+	$existingAttachmentName =  $attachDetails->name;
+	$dir = realpath(dirname(__FILE__) . '/../../../')."/uploads/xyz_em/attachments/";
+	unlink ($dir.$existingAttachmentName);
+	
+	$wpdb->query( $wpdb->prepare( "DELETE FROM ".$wpdb->prefix."xyz_em_attachment WHERE id= %d",$xyz_em_attachId) ) ;
+	header("Location:".admin_url('admin.php?page=newsletter-manager-manage-campaigns&action=edit_campaign&id='.$xyz_em_campId));
+	exit();
+
+}
+?>

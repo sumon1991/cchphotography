@@ -1,0 +1,7 @@
+
+@media only screen and (min-width: 768px) {
+/* equal height */
+.row-equal-height .container-fluid .row { width: 101.6%; display: table;}
+.row-equal-height .container-fluid .row  > .vc_column_container { display: table-cell; float: none; vertical-align: middle; }
+.architecture-title-number { margin-top: 12%; top: 0;}
+}

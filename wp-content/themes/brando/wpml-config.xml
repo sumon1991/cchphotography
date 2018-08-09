@@ -1,0 +1,19 @@
+<wpml-config>
+	<custom-types>
+		<custom-type translate="1">portfolio</custom-type>
+	</custom-types>
+	<taxonomies>
+		<taxonomy translate="1">portfolio-category</taxonomy>
+	</taxonomies>
+	<admin-texts>
+		<key name="brando_theme_setting">
+			<key name="brando_header_subtitle" />
+			<key name="404_title_text" />
+			<key name="404_content_text" />
+			<key name="404_button" />
+			<key name="brando_general_button_text" />
+			<key name="brando_footer_text" />
+			<key name="brando_footer_copyright" />
+		</key>
+	</admin-texts>
+</wpml-config>
